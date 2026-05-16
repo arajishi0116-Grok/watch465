@@ -32,8 +32,8 @@ BASE = "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/"
 HEADERS = {"User-Agent": "WATCH465/1.0 (non-profit research, official data only)"}
 INTERVAL = 2
 
-# 対象会期
-SESSIONS = [218, 219, 220, 221]
+# 対象会期（現任期：2024年10月衆院選以降）※新会期が始まったらここに追加する
+SESSIONS = [215, 216, 217, 218, 219]
 
 # 衆法(継続)=05, 衆法(今会期)=06, 閣法=09
 KAKUHO_ANCHOR = "09"

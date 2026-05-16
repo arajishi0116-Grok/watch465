@@ -16,8 +16,8 @@ BASE = "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/"
 HEADERS = {"User-Agent": "WATCH465/1.0 (non-profit research, official data only)"}
 INTERVAL = 2  # 秒
 
-# 対象会期（直近4会期）※新会期が始まったらここに追加する
-SESSIONS = [218, 219, 220, 221]
+# 対象会期（現任期：2024年10月衆院選以降）※新会期が始まったらここに追加する
+SESSIONS = [215, 216, 217, 218, 219]
 
 
 def get_soup(url: str) -> BeautifulSoup:
