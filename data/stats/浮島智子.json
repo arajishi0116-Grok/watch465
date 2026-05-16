@@ -1,12 +1,12 @@
 {
-  "committee_attendance_rate": 93.6,
-  "committee_speech_rate": 93.6,
-  "plenary_attendance_rate": 6.4,
-  "interpellations": 0,
+  "speech_count": 0,
+  "committee_speech_count": 0,
+  "plenary_speech_count": 0,
+  "from_date": "2024-10-28",
+  "until_date": "2026-05-16",
+  "updated_at": "2026-05-16T11:03:01.320121+00:00",
   "bills_sponsored": 0,
   "bills_sponsored_passed": 0,
   "bills_sponsored_pending": 0,
-  "bills_cosponsored": 0,
-  "speech_count": 578,
-  "updated_at": "2026-05-16T07:06:22.621801+00:00"
+  "bills_cosponsored": 0
 }

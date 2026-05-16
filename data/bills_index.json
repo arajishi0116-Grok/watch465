@@ -1,37 +1,5 @@
 {
-  "足立康史君外二名": [
-    {
-      "session": 213,
-      "name": "揮発油等の価格の高騰から国民生活及び国民経済を守るための東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律及び地方税法の一部を改正する等の法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD6A.htm",
-      "is_primary": true,
-      "faction": "日本維新の会; 国民民主党・無所属クラブ"
-    },
-    {
-      "session": 213,
-      "name": "特定土砂等の管理に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADF6.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "土砂等の置場の確保に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADFA.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "現下の物価の高騰による国民生活及び国民経済への悪影響を緩和するために講ずべき国民負担の軽減等に関する措置に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD76.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
+  "足立康史": [
     {
       "session": 214,
       "name": "揮発油等の価格の高騰から国民生活及び国民経済を守るための東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律及び地方税法の一部を改正する等の法律案",
@@ -57,15 +25,7 @@
       "faction": "日本維新の会"
     }
   ],
-  "末松義規君外六名": [
-    {
-      "session": 213,
-      "name": "現下の揮発油等の価格の高騰から国民生活及び国民経済を守るための揮発油税等に関する法律の臨時特例等に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD6E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
+  "末松義規": [
     {
       "session": 214,
       "name": "現下の揮発油等の価格の高騰から国民生活及び国民経済を守るための揮発油税等に関する法律の臨時特例等に関する法律案",
@@ -73,27 +33,17 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC506.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
-    }
-  ],
-  "前原誠司君外二名": [
+    },
     {
-      "session": 213,
-      "name": "自衛隊法及び海上保安庁法の一部を改正する法律案",
+      "session": 214,
+      "name": "所得税法等の一部を改正する法律の一部を改正する法律案",
       "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE02.htm",
-      "is_primary": true,
-      "faction": "日本維新の会; 国民民主党・無所属クラブ"
-    }
-  ],
-  "中谷一馬君外十三名": [
-    {
-      "session": 213,
-      "name": "新型コロナウイルス感染症等の影響を受けた低所得者に対する特別給付金の支給に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACBA.htm",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC50A.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
-    },
+    }
+  ],
+  "中谷一馬": [
     {
       "session": 214,
       "name": "新型コロナウイルス感染症等の影響を受けた低所得者に対する特別給付金の支給に関する法律案",
@@ -101,17 +51,17 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC43E.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
-    }
-  ],
-  "篠原豪君外十四名": [
+    },
     {
-      "session": 213,
-      "name": "領域等の警備及び海上保安体制の強化に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE06.htm",
+      "session": 214,
+      "name": "低所得である子育て世帯に対する緊急の支援に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3CA.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
-    },
+    }
+  ],
+  "篠原豪": [
     {
       "session": 214,
       "name": "領域等の警備及び海上保安体制の強化に関する法律案",
@@ -121,15 +71,7 @@
       "faction": "立憲民主党・無所属"
     }
   ],
-  "山岡達丸君外九名": [
-    {
-      "session": 213,
-      "name": "新型コロナウイルス感染症等の影響を受けている中小事業者等に対する緊急の支援に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADCE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
+  "山岡達丸": [
     {
       "session": 214,
       "name": "新型コロナウイルス感染症等の影響を受けている中小事業者等に対する緊急の支援に関する法律案",
@@ -139,15 +81,7 @@
       "faction": "立憲民主党・無所属"
     }
   ],
-  "小宮山泰子君外七名": [
-    {
-      "session": 213,
-      "name": "新型コロナウイルス感染症等の影響を受けている観光関連事業者に対する緊急の支援に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADF2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
+  "小宮山泰子": [
     {
       "session": 214,
       "name": "新型コロナウイルス感染症等の影響を受けている観光関連事業者に対する緊急の支援に関する法律案",
@@ -155,25 +89,25 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC54E.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 217,
+      "name": "性同一性障害者の性別の取扱いの特例に関する法律の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF3AE.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 214,
+      "name": "性同一性障害者の性別の取扱いの特例に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4EE.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
     }
   ],
-  "中司宏君外二名": [
-    {
-      "session": 213,
-      "name": "日本放送協会改革推進法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD12.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "副首都機能の整備の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAED6.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
+  "中司宏": [
     {
       "session": 214,
       "name": "日本放送協会改革推進法案",
@@ -189,17 +123,49 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3C6.htm",
       "is_primary": true,
       "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "地方自治法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4D2.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "国会議員の歳費、旅費及び手当等に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC406.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "衆議院規則の一部を改正する規則案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5F2.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "国会議員の秘書の給与等に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC40A.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "地方自治法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4D6.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
     }
   ],
-  "鈴木庸介君外五名": [
-    {
-      "session": 213,
-      "name": "戦争等避難者に係る出入国管理及び難民認定法の特例等に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD4A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
+  "鈴木庸介": [
     {
       "session": 214,
       "name": "戦争等避難者に係る出入国管理及び難民認定法の特例等に関する法律案",
@@ -209,146 +175,12 @@
       "faction": "立憲民主党・無所属"
     }
   ],
-  "末松義規君外九名": [
-    {
-      "session": 213,
-      "name": "所得税法等の一部を改正する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD72.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "所得税法等の一部を改正する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC50A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "落合貴之君外九名": [
-    {
-      "session": 213,
-      "name": "新型コロナウイルス感染症等の影響を受けている中小事業者に対する金融の円滑化の促進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADD2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
+  "落合貴之": [
     {
       "session": 214,
       "name": "新型コロナウイルス感染症等の影響を受けている中小事業者に対する金融の円滑化の促進に関する法律案",
       "status": "未了",
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC56A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "岡本あき子君外十二名": [
-    {
-      "session": 213,
-      "name": "保育等従業者の人材確保のための処遇の改善等に関する特別措置法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAECA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
-    },
-    {
-      "session": 214,
-      "name": "保育等従業者の人材確保のための処遇の改善等に関する特別措置法案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3BA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
-    }
-  ],
-  "早稲田ゆき君外十六名": [
-    {
-      "session": 213,
-      "name": "介護・障害福祉従事者の人材確保に関する特別措置法案",
-      "status": "撤回",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADA2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "逢沢一郎君外三名": [
-    {
-      "session": 213,
-      "name": "日本国憲法の改正手続に関する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEF6.htm",
-      "is_primary": true,
-      "faction": "自由民主党; 日本維新の会; 公明党; 有志の会"
-    },
-    {
-      "session": 214,
-      "name": "日本国憲法の改正手続に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3AE.htm",
-      "is_primary": true,
-      "faction": "自由民主党; 日本維新の会; 公明党; 有志の会"
-    }
-  ],
-  "重徳和彦君外十五名": [
-    {
-      "session": 213,
-      "name": "自動車産業における脱炭素化の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADD6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 有志の会"
-    },
-    {
-      "session": 214,
-      "name": "自動車産業における脱炭素化の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC56E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 有志の会"
-    }
-  ],
-  "岩谷良平君外四名": [
-    {
-      "session": 213,
-      "name": "インターネット誹謗中傷対策の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD16.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "インターネット誹謗中傷対策の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5EA.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    }
-  ],
-  "落合貴之君外四名": [
-    {
-      "session": 213,
-      "name": "公職選挙法及び地方自治法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEB6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 213,
-      "name": "政治資金規正法及び租税特別措置法の一部を改正する法律案",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEA6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 213,
-      "name": "政治資金規正法の一部を改正する法律案",
-      "status": "撤回",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEAA.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
     },
@@ -359,16 +191,6 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC39A.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
-    }
-  ],
-  "落合貴之君外六名": [
-    {
-      "session": 213,
-      "name": "公職の候補者となる労働者の雇用の継続の確保のための立候補休暇に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADA6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
     },
     {
       "session": 214,
@@ -377,25 +199,145 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5B2.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 214,
+      "name": "インターネット投票の導入の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC39E.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "政治資金規正法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC392.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 214,
+      "name": "政治資金規正法の一部を改正する法律を廃止する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCED6.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 有志の会"
+    },
+    {
+      "session": 214,
+      "name": "政治資金規正法等の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCEE2.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 有志の会"
+    },
+    {
+      "session": 214,
+      "name": "政治資金規正法及び租税特別措置法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCEF2.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 217,
+      "name": "公職選挙法及び地方自治法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF22A.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
     }
   ],
-  "金子恵美君外四名": [
+  "岡本あき子": [
     {
-      "session": 213,
-      "name": "国有林野事業に従事する職員の労働関係を円滑に調整するための行政執行法人の労働関係に関する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADC2.htm",
+      "session": 214,
+      "name": "保育等従業者の人材確保のための処遇の改善等に関する特別措置法案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3BA.htm",
       "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; 有志の会"
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
+    }
+  ],
+  "逢沢一郎": [
+    {
+      "session": 214,
+      "name": "日本国憲法の改正手続に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3AE.htm",
+      "is_primary": true,
+      "faction": "自由民主党; 日本維新の会; 公明党; 有志の会"
     },
     {
-      "session": 213,
-      "name": "国有林野事業に従事する職員の給与等に関する特例法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADC6.htm",
+      "session": 217,
+      "name": "公職選挙法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE53A.htm",
       "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; 有志の会"
+      "faction": "自由民主党・無所属の会; 立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ; 公明党; 参政党; 日本保守党"
     },
+    {
+      "session": 217,
+      "name": "公職選挙法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE53E.htm",
+      "is_primary": true,
+      "faction": "自由民主党・無所属の会; 立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ; 公明党; 日本保守党"
+    }
+  ],
+  "重徳和彦": [
+    {
+      "session": 214,
+      "name": "自動車産業における脱炭素化の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC56E.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 有志の会"
+    },
+    {
+      "session": 217,
+      "name": "租税特別措置法及び東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF286.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ; 日本共産党; 参政党; 日本保守党"
+    },
+    {
+      "session": 217,
+      "name": "自動車産業における脱炭素化の推進に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF296.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 有志の会"
+    }
+  ],
+  "岩谷良平": [
+    {
+      "session": 214,
+      "name": "インターネット誹謗中傷対策の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5EA.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "インターネット誹謗中傷による被害の救済に資するための弁護士等の報酬の補助に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4B6.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "放送法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4BA.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    }
+  ],
+  "金子恵美": [
     {
       "session": 214,
       "name": "国有林野事業に従事する職員の労働関係を円滑に調整するための行政執行法人の労働関係に関する法律の一部を改正する法律案",
@@ -413,15 +355,7 @@
       "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; 有志の会"
     }
   ],
-  "後藤祐一君外八名": [
-    {
-      "session": 213,
-      "name": "中小企業正規労働者雇入臨時助成金の支給に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADDA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
+  "後藤祐一": [
     {
       "session": 214,
       "name": "中小企業正規労働者雇入臨時助成金の支給に関する法律案",
@@ -431,41 +365,7 @@
       "faction": "立憲民主党・無所属"
     }
   ],
-  "中司宏君外四名": [
-    {
-      "session": 213,
-      "name": "地方自治法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD3A.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "地方自治法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4D2.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    }
-  ],
-  "階猛君外五名": [
-    {
-      "session": 213,
-      "name": "国家賠償法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD4E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 213,
-      "name": "就労支援給付制度の導入に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB91E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
+  "階猛": [
     {
       "session": 214,
       "name": "国家賠償法の一部を改正する法律案",
@@ -481,854 +381,12 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5D2.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
-    }
-  ],
-  "枝野幸男君外十一名": [
-    {
-      "session": 213,
-      "name": "民法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD52.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; れいわ新選組"
-    },
-    {
-      "session": 214,
-      "name": "民法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4E6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; れいわ新選組"
-    }
-  ],
-  "阿部知子君外十一名": [
-    {
-      "session": 213,
-      "name": "性暴力被害者の支援に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACBE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ; 日本共産党; れいわ新選組"
-    },
-    {
-      "session": 214,
-      "name": "性暴力被害者の支援に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC442.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ; 日本共産党; れいわ新選組"
-    }
-  ],
-  "大河原まさこ君外十名": [
-    {
-      "session": 213,
-      "name": "性的指向又は性自認を理由とする差別の解消等の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACC2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; れいわ新選組"
-    },
-    {
-      "session": 214,
-      "name": "性的指向又は性自認を理由とする差別の解消等の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC446.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; れいわ新選組"
-    }
-  ],
-  "山崎誠君外六名": [
-    {
-      "session": 213,
-      "name": "分散型エネルギー利用の促進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADDE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "分散型エネルギー利用の促進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC576.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "田嶋要君外五名": [
-    {
-      "session": 213,
-      "name": "国等によるその設置する施設の省エネルギー・再生可能エネルギー源利用改修等の実施等に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADE2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "国等によるその設置する施設の省エネルギー・再生可能エネルギー源利用改修等の実施等に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC57A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "中川正春君外六名": [
-    {
-      "session": 213,
-      "name": "多文化共生社会基本法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACC6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "多文化共生社会基本法案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC44A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "小川淳也君外七名": [
-    {
-      "session": 213,
-      "name": "消費税の減税その他の税制の見直しに関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD7A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本共産党; れいわ新選組"
-    },
-    {
-      "session": 214,
-      "name": "消費税の減税その他の税制の見直しに関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC50E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本共産党; れいわ新選組"
-    }
-  ],
-  "松原仁君外五名": [
-    {
-      "session": 213,
-      "name": "特定人権侵害行為への対処に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD62.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "特定人権侵害行為への対処に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4FA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "笠浩史君外七名": [
-    {
-      "session": 213,
-      "name": "国会法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE7A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会; 日本共産党; 有志の会; れいわ新選組"
-    },
-    {
-      "session": 214,
-      "name": "国会法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3EA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会; 日本共産党; 有志の会; れいわ新選組"
-    }
-  ],
-  "青柳仁士君外三名": [
-    {
-      "session": 213,
-      "name": "国葬儀法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACFE.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "日本銀行法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD7E.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "我が国の総合的な安全保障の確保を図るための土地等の取得、利用及び管理の規制に関する施策の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACFA.htm",
-      "is_primary": true,
-      "faction": "日本維新の会; 国民民主党・無所属クラブ"
-    },
-    {
-      "session": 214,
-      "name": "国葬儀法案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC48E.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "日本銀行法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC512.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "我が国の総合的な安全保障の確保を図るための土地等の取得、利用及び管理の規制に関する施策の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC48A.htm",
-      "is_primary": true,
-      "faction": "日本維新の会; 国民民主党・無所属クラブ"
-    }
-  ],
-  "青柳仁士君外九名": [
-    {
-      "session": 213,
-      "name": "通園バスの車内における幼児等の置き去りによる事故の防止その他の認定こども園等における幼児等の安全の確保のための措置等に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAECE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会; 日本共産党"
-    },
-    {
-      "session": 214,
-      "name": "通園バスの車内における幼児等の置き去りによる事故の防止その他の認定こども園等における幼児等の安全の確保のための措置等に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3BE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会; 日本共産党"
-    }
-  ],
-  "早稲田ゆき君外八名": [
-    {
-      "session": 213,
-      "name": "新型インフルエンザ等治療用特定医薬品の指定及び使用に関する特別措置法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADAA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "新型インフルエンザ等治療用特定医薬品の指定及び使用に関する特別措置法案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5B6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    }
-  ],
-  "三木圭恵君外二名": [
-    {
-      "session": 213,
-      "name": "防衛省の職員の給与等に関する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE0A.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "防衛省の職員の給与等に関する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE0E.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "防衛省の職員の給与等に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC432.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "防衛省の職員の給与等に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC436.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    }
-  ],
-  "道下大樹君外十名": [
-    {
-      "session": 213,
-      "name": "障害者の日常生活及び社会生活を総合的に支援するための法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADAE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "障害者の日常生活及び社会生活を総合的に支援するための法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5BA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "渡辺周君外十一名": [
-    {
-      "session": 213,
-      "name": "国会議員の歳費、旅費及び手当等に関する法律等の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE7E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ"
-    },
-    {
-      "session": 214,
-      "name": "国会議員の歳費、旅費及び手当等に関する法律等の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3EE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ"
-    }
-  ],
-  "堀場幸子君外二名": [
-    {
-      "session": 213,
-      "name": "性をめぐる個人の尊厳が重んぜられる社会の形成に資するために性行為映像制作物への出演に係る被害の防止を図り及び出演者の救済に資するための出演契約等に関する特則等に関する法律の一部を改正する法律案",
-      "status": "撤回",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACD6.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "サイバー安全保障態勢の整備の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC10E.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会"
-    },
-    {
-      "session": 214,
-      "name": "サイバー安全保障態勢の整備の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4C2.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会"
-    },
-    {
-      "session": 214,
-      "name": "公立学校働き方改革の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCE8A.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会"
-    }
-  ],
-  "青柳仁士君外八名": [
-    {
-      "session": 213,
-      "name": "子育て・若者緊急支援法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEC6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "子育て・若者緊急支援法案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3B6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    }
-  ],
-  "早稲田ゆき君外十名": [
-    {
-      "session": 213,
-      "name": "児童手当法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAED2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEEA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "児童手当法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3C2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3DA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "大河原まさこ君外五名": [
-    {
-      "session": 213,
-      "name": "民法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD56.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "民法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4EA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "中谷一馬君外十一名": [
-    {
-      "session": 213,
-      "name": "低所得である子育て世帯に対する緊急の支援に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEDA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "低所得である子育て世帯に対する緊急の支援に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3CA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "浦野靖人君外九名": [
-    {
-      "session": 213,
-      "name": "特定教育・保育施設における保育教諭等の配置の充実のための措置に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEDE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "特定教育・保育施設における保育教諭等の配置の充実のための措置に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3CE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    }
-  ],
-  "西村智奈美君外十名": [
-    {
-      "session": 213,
-      "name": "短時間労働者及び有期雇用労働者の雇用管理の改善等に関する法律等の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADB2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "短時間労働者及び有期雇用労働者の雇用管理の改善等に関する法律等の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5BE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "小野泰輔君外二名": [
-    {
-      "session": 213,
-      "name": "発電に関する原子力の利用に係る責任を明確化するための改革の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADE6.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "電力の取引における公正な競争の促進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADEA.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "発電に関する原子力の利用に係る責任を明確化するための改革の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC57E.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "電力の取引における公正な競争の促進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC582.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    }
-  ],
-  "菊田真紀子君外九名": [
-    {
-      "session": 213,
-      "name": "学校給食法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD92.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "学校給食法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC52E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    }
-  ],
-  "菊田真紀子君外十一名": [
-    {
-      "session": 213,
-      "name": "児童虐待の防止等に関する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEE2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 213,
-      "name": "児童扶養手当法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEEE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "児童虐待の防止等に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3D2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "児童扶養手当法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3DE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "城井崇君外十名": [
-    {
-      "session": 213,
-      "name": "公立学校働き方改革の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD96.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "公立学校働き方改革の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC532.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 216,
-      "name": "学校給食法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD72.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ"
-    }
-  ],
-  "落合貴之君外十四名": [
-    {
-      "session": 213,
-      "name": "インターネット投票の導入の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEBA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "インターネット投票の導入の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC39E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    }
-  ],
-  "守島正君外三名": [
-    {
-      "session": 213,
-      "name": "国会議員の秘書の給与等に関する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE82.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "国会議員の秘書の給与等に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3F2.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    }
-  ],
-  "守島正君外十四名": [
-    {
-      "session": 213,
-      "name": "国家公務員法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACDA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "国家公務員法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC456.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    }
-  ],
-  "階猛君外八名": [
-    {
-      "session": 213,
-      "name": "消費税の逆進性を緩和するための給付付き税額控除の導入等に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD82.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
     },
     {
       "session": 214,
       "name": "消費税の逆進性を緩和するための給付付き税額控除の導入等に関する法律案",
       "status": "未了",
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC516.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "櫻井周君外五名": [
-    {
-      "session": 213,
-      "name": "持続可能な開発の目標の達成に向けた諸施策の総合的かつ一体的な推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACDE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "持続可能な開発の目標の達成に向けた諸施策の総合的かつ一体的な推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC45A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "源馬謙太郎君外十五名": [
-    {
-      "session": 213,
-      "name": "公文書等の管理に関する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACE2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "公文書等の管理の適正化の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACE6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "公文書等の管理に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC45E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "公文書等の管理の適正化の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC462.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会"
-    }
-  ],
-  "小川淳也君外九名": [
-    {
-      "session": 213,
-      "name": "新型コロナウイルス感染症の罹患後症状に係る対策の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADB6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "新型コロナウイルス感染症の罹患後症状に係る対策の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5C2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "早稲田ゆき君外九名": [
-    {
-      "session": 213,
-      "name": "新型コロナウイルス感染症に係る予防接種による健康被害の救済等に係る措置に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDADBA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "新型コロナウイルス感染症に係る予防接種による健康被害の救済等に係る措置に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5C6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "堀場幸子君外三名": [
-    {
-      "session": 213,
-      "name": "宗教法人法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD9A.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "一般社団法人及び一般財団法人に関する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD5A.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "性をめぐる個人の尊厳が重んぜられる社会の形成に資するために性行為映像制作物への出演に係る被害の防止を図り及び出演者の救済に資するための出演契約等に関する特則等に関する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC362.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会; 国民民主党・無所属クラブ"
-    },
-    {
-      "session": 214,
-      "name": "宗教法人法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC536.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "一般社団法人及び一般財団法人に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4BE.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "性をめぐる個人の尊厳が重んぜられる社会の形成に資するために性行為映像制作物への出演に係る被害の防止を図り及び出演者の救済に資するための出演契約等に関する特則等に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC482.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会; 国民民主党・無所属クラブ"
-    }
-  ],
-  "住吉寛紀君外三名": [
-    {
-      "session": 213,
-      "name": "公益法人等に対する寄附を促進するための税制上の措置等に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD8A.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "公益法人等に対する寄附を促進するための税制上の措置等に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC51E.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    }
-  ],
-  "階猛君外六名": [
-    {
-      "session": 213,
-      "name": "財政法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD86.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 213,
-      "name": "我が国の経済及び財政等に関する将来の推計を信頼性のある統計等の情報に基づき中立公正に実施するための経済財政等将来推計委員会の設置に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE86.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 213,
-      "name": "国会法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE8A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 213,
-      "name": "子ども・子育て支援法等の一部を改正する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC31A.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
     },
@@ -1379,17 +437,545 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD7B6.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
-    }
-  ],
-  "吉田統彦君外十一名": [
+    },
     {
-      "session": 213,
-      "name": "保護者等による自動車内への子ども等の置き去りの防止に関する法律案",
+      "session": 217,
+      "name": "就労支援給付制度の導入に関する法律案",
       "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEE6.htm",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDCE.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
     },
+    {
+      "session": 217,
+      "name": "中小企業正規労働者雇入臨時助成金の支給に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE5AE.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "子ども・子育て支援法等の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEE46.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "枝野幸男": [
+    {
+      "session": 214,
+      "name": "民法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4E6.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; れいわ新選組"
+    }
+  ],
+  "阿部知子": [
+    {
+      "session": 214,
+      "name": "性暴力被害者の支援に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC442.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ; 日本共産党; れいわ新選組"
+    }
+  ],
+  "大河原まさこ": [
+    {
+      "session": 214,
+      "name": "性的指向又は性自認を理由とする差別の解消等の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC446.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; れいわ新選組"
+    },
+    {
+      "session": 214,
+      "name": "民法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4EA.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 217,
+      "name": "民法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF3AA.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "山崎誠": [
+    {
+      "session": 214,
+      "name": "分散型エネルギー利用の促進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC576.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "田嶋要": [
+    {
+      "session": 214,
+      "name": "国等によるその設置する施設の省エネルギー・再生可能エネルギー源利用改修等の実施等に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC57A.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "中川正春": [
+    {
+      "session": 214,
+      "name": "多文化共生社会基本法案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC44A.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "小川淳也": [
+    {
+      "session": 214,
+      "name": "消費税の減税その他の税制の見直しに関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC50E.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本共産党; れいわ新選組"
+    },
+    {
+      "session": 214,
+      "name": "新型コロナウイルス感染症の罹患後症状に係る対策の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5C2.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "松原仁": [
+    {
+      "session": 214,
+      "name": "特定人権侵害行為への対処に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4FA.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "笠浩史": [
+    {
+      "session": 214,
+      "name": "国会法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3EA.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 日本共産党; 有志の会; れいわ新選組"
+    },
+    {
+      "session": 214,
+      "name": "石破内閣不信任決議案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD2E6.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会・教育無償化を実現する会; 日本共産党; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "財務金融委員長井林辰憲君解任決議案",
+      "status": "本院可決",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF346.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ; 参政党; 日本保守党"
+    }
+  ],
+  "青柳仁士": [
+    {
+      "session": 214,
+      "name": "国葬儀法案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC48E.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "日本銀行法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC512.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "我が国の総合的な安全保障の確保を図るための土地等の取得、利用及び管理の規制に関する施策の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC48A.htm",
+      "is_primary": true,
+      "faction": "日本維新の会; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 214,
+      "name": "通園バスの車内における幼児等の置き去りによる事故の防止その他の認定こども園等における幼児等の安全の確保のための措置等に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3BE.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 日本共産党"
+    },
+    {
+      "session": 214,
+      "name": "子育て・若者緊急支援法案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3B6.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "執行職職員給与制度改革推進法案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC452.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 217,
+      "name": "軽油引取税の税率の特例の廃止に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE86A.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 217,
+      "name": "揮発油税及び地方揮発油税の税率の特例の廃止に関する法律案",
+      "status": "撤回",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE87E.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 217,
+      "name": "政治資金規正法の一部を改正する法律案",
+      "status": "撤回",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEC06.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "デジタル歳入給付庁の設置による内国税・保険料等の徴収等に関する業務及び公的給付の支給等に関する業務の効率化等の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4C6.htm",
+      "is_primary": true,
+      "faction": "日本維新の会・教育無償化を実現する会"
+    },
+    {
+      "session": 217,
+      "name": "ライドシェア事業に係る制度の導入に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEF36.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    }
+  ],
+  "早稲田ゆき": [
+    {
+      "session": 214,
+      "name": "新型インフルエンザ等治療用特定医薬品の指定及び使用に関する特別措置法案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5B6.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "児童手当法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3C2.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3DA.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 214,
+      "name": "新型コロナウイルス感染症に係る予防接種による健康被害の救済等に係る措置に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5C6.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 217,
+      "name": "保育等従業者の人材確保のための処遇の改善等に関する特別措置法案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF2F2.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
+    }
+  ],
+  "三木圭恵": [
+    {
+      "session": 214,
+      "name": "防衛省の職員の給与等に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC432.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "防衛省の職員の給与等に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC436.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    }
+  ],
+  "道下大樹": [
+    {
+      "session": 214,
+      "name": "障害者の日常生活及び社会生活を総合的に支援するための法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5BA.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 214,
+      "name": "手話言語法案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC47A.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "渡辺周": [
+    {
+      "session": 214,
+      "name": "国会議員の歳費、旅費及び手当等に関する法律等の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3EE.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ"
+    }
+  ],
+  "浦野靖人": [
+    {
+      "session": 214,
+      "name": "特定教育・保育施設における保育教諭等の配置の充実のための措置に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3CE.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "公職選挙法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3A6.htm",
+      "is_primary": true,
+      "faction": "日本維新の会・教育無償化を実現する会; 国民民主党・無所属クラブ"
+    }
+  ],
+  "西村智奈美": [
+    {
+      "session": 214,
+      "name": "短時間労働者及び有期雇用労働者の雇用管理の改善等に関する法律等の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5BE.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "小野泰輔": [
+    {
+      "session": 214,
+      "name": "発電に関する原子力の利用に係る責任を明確化するための改革の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC57E.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "電力の取引における公正な競争の促進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC582.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    }
+  ],
+  "菊田真紀子": [
+    {
+      "session": 214,
+      "name": "学校給食法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC52E.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "児童虐待の防止等に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3D2.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 214,
+      "name": "児童扶養手当法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3DE.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "城井崇": [
+    {
+      "session": 214,
+      "name": "公立学校働き方改革の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC532.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 216,
+      "name": "学校給食法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD72.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "学校給食法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDC6.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ"
+    }
+  ],
+  "守島正": [
+    {
+      "session": 214,
+      "name": "国会議員の秘書の給与等に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3F2.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "国家公務員法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC456.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "選挙等改革の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3A2.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    }
+  ],
+  "櫻井周": [
+    {
+      "session": 214,
+      "name": "持続可能な開発の目標の達成に向けた諸施策の総合的かつ一体的な推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC45A.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "源馬謙太郎": [
+    {
+      "session": 214,
+      "name": "公文書等の管理に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC45E.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "公文書等の管理の適正化の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC462.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会"
+    }
+  ],
+  "堀場幸子": [
+    {
+      "session": 214,
+      "name": "宗教法人法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC536.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "一般社団法人及び一般財団法人に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4BE.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    },
+    {
+      "session": 214,
+      "name": "性をめぐる個人の尊厳が重んぜられる社会の形成に資するために性行為映像制作物への出演に係る被害の防止を図り及び出演者の救済に資するための出演契約等に関する特則等に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC482.htm",
+      "is_primary": true,
+      "faction": "日本維新の会・教育無償化を実現する会; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 214,
+      "name": "サイバー安全保障態勢の整備の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4C2.htm",
+      "is_primary": true,
+      "faction": "日本維新の会・教育無償化を実現する会"
+    },
+    {
+      "session": 214,
+      "name": "公立学校働き方改革の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCE8A.htm",
+      "is_primary": true,
+      "faction": "日本維新の会・教育無償化を実現する会"
+    }
+  ],
+  "住吉寛紀": [
+    {
+      "session": 214,
+      "name": "公益法人等に対する寄附を促進するための税制上の措置等に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC51E.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    }
+  ],
+  "吉田統彦": [
     {
       "session": 214,
       "name": "保護者等による自動車内への子ども等の置き去りの防止に関する法律案",
@@ -1399,47 +985,7 @@
       "faction": "立憲民主党・無所属"
     }
   ],
-  "大島敦君外十六名": [
-    {
-      "session": 213,
-      "name": "国家公務員法等の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACEA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
-    },
-    {
-      "session": 213,
-      "name": "国家公務員の労働関係に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACEE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
-    },
-    {
-      "session": 213,
-      "name": "公務員庁設置法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACF2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
-    },
-    {
-      "session": 213,
-      "name": "地方公務員法等の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD1A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
-    },
-    {
-      "session": 213,
-      "name": "地方公務員の労働関係に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD1E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
-    },
+  "大島敦": [
     {
       "session": 214,
       "name": "国家公務員法等の一部を改正する法律案",
@@ -1479,32 +1025,54 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4B2.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "地方公務員法等の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF1DA.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "地方公務員の労働関係に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF1EA.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "国家公務員法等の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF1AA.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "国家公務員の労働関係に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF1BA.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "公務員庁設置法案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF1CA.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
     }
   ],
-  "古川元久君外五名": [
-    {
-      "session": 213,
-      "name": "国会法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE8E.htm",
-      "is_primary": true,
-      "faction": "日本維新の会; 国民民主党・無所属クラブ; 有志の会"
-    },
+  "古川元久": [
     {
       "session": 214,
       "name": "国会法の一部を改正する法律案",
       "status": "未了",
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3FE.htm",
-      "is_primary": true,
-      "faction": "日本維新の会; 国民民主党・無所属クラブ; 有志の会"
-    }
-  ],
-  "古川元久君外四名": [
-    {
-      "session": 213,
-      "name": "新型コロナウイルス感染症対策検証委員会法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE92.htm",
       "is_primary": true,
       "faction": "日本維新の会; 国民民主党・無所属クラブ; 有志の会"
     },
@@ -1515,121 +1083,57 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC402.htm",
       "is_primary": true,
       "faction": "日本維新の会; 国民民主党・無所属クラブ; 有志の会"
+    },
+    {
+      "session": 216,
+      "name": "賃金上昇を上回る所得税の負担増加等に対処するために所得税に関し講ずべき措置に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD806.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "賃金上昇を上回る所得税の負担増加等に対処するために所得税に関し講ずべき措置に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDB2.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "新型コロナウイルス感染症対策検証委員会等の設置等に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF32A.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 216,
+      "name": "政治資金監視委員会等の設置その他の政治資金の透明性を確保するための措置等に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDCB2.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ; 公明党"
+    },
+    {
+      "session": 216,
+      "name": "政党交付金の交付停止等に関する制度の創設に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDCBE.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "政党交付金の交付停止等に関する制度の創設に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD92.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
     }
   ],
-  "中司宏君外三名": [
-    {
-      "session": 213,
-      "name": "国会議員の歳費、旅費及び手当等に関する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE96.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "衆議院規則の一部を改正する規則案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEFE.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "国会議員の歳費、旅費及び手当等に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC406.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "衆議院規則の一部を改正する規則案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5F2.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    }
-  ],
-  "中司宏君外一名": [
-    {
-      "session": 213,
-      "name": "国会議員の秘書の給与等に関する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE9A.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "地方自治法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD42.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "国会議員の秘書の給与等に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC40A.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "地方自治法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4D6.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    }
-  ],
-  "落合貴之君外三名": [
-    {
-      "session": 213,
-      "name": "政治資金規正法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEAE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "政治資金規正法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC392.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "守島正君外二名": [
-    {
-      "session": 213,
-      "name": "選挙等改革の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAEBE.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "選挙等改革の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3A2.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    }
-  ],
-  "吉田はるみ君外十四名": [
-    {
-      "session": 213,
-      "name": "特定遊興飲食高額債務問題対策の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACCA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
+  "吉田はるみ": [
     {
       "session": 214,
       "name": "特定遊興飲食高額債務問題対策の推進に関する法律案",
@@ -1637,67 +1141,17 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC44E.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
-    }
-  ],
-  "岩谷良平君外一名": [
-    {
-      "session": 213,
-      "name": "インターネット誹謗中傷による被害の救済に資するための弁護士等の報酬の補助に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD22.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD26.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 213,
-      "name": "放送法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD2A.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
     },
     {
       "session": 214,
-      "name": "インターネット誹謗中傷による被害の救済に資するための弁護士等の報酬の補助に関する法律案",
+      "name": "風俗営業等の規制及び業務の適正化等に関する法律の一部を改正する法律案",
       "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4B6.htm",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC476.htm",
       "is_primary": true,
-      "faction": "日本維新の会"
-    },
-    {
-      "session": 214,
-      "name": "放送法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4BA.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
+      "faction": "立憲民主党・無所属"
     }
   ],
-  "遠藤敬君外五名": [
-    {
-      "session": 213,
-      "name": "国会法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE9E.htm",
-      "is_primary": true,
-      "faction": "日本維新の会; 国民民主党・無所属クラブ; 有志の会"
-    },
-    {
-      "session": 213,
-      "name": "衆議院規則の一部を改正する規則案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAF02.htm",
-      "is_primary": true,
-      "faction": "日本維新の会; 国民民主党・無所属クラブ; 有志の会"
-    },
+  "遠藤敬": [
     {
       "session": 214,
       "name": "国会法の一部を改正する法律案",
@@ -1713,43 +1167,25 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5F6.htm",
       "is_primary": true,
       "faction": "日本維新の会; 国民民主党・無所属クラブ; 有志の会"
-    }
-  ],
-  "青柳仁士君外一名": [
-    {
-      "session": 213,
-      "name": "執行職職員給与制度改革推進法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDACCE.htm",
-      "is_primary": true,
-      "faction": "日本維新の会"
     },
     {
-      "session": 213,
-      "name": "政治資金規正法及び租税特別措置法の一部を改正する法律案",
-      "status": "撤回",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC21A.htm",
+      "session": 214,
+      "name": "政治資金規正法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCEB2.htm",
       "is_primary": true,
       "faction": "日本維新の会・教育無償化を実現する会"
     },
     {
       "session": 214,
-      "name": "執行職職員給与制度改革推進法案",
+      "name": "公職選挙法の一部を改正する法律案",
       "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC452.htm",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCEBE.htm",
       "is_primary": true,
-      "faction": "日本維新の会"
+      "faction": "日本維新の会・教育無償化を実現する会"
     }
   ],
-  "近藤和也君外八名": [
-    {
-      "session": 213,
-      "name": "被災者生活再建支援法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB51E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会・教育無償化を実現する会; 国民民主党・無所属クラブ"
-    },
+  "近藤和也": [
     {
       "session": 214,
       "name": "被災者生活再建支援法の一部を改正する法律案",
@@ -1757,77 +1193,41 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC38A.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属; 日本維新の会・教育無償化を実現する会; 国民民主党・無所属クラブ"
-    }
-  ],
-  "地域活性化・こども政策・デジタル社会形成に関する特別委員長": [
-    {
-      "session": 213,
-      "name": "令和六年度出産・子育て応援給付金に係る差押禁止等に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBEBA.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
-    },
-    {
-      "session": 213,
-      "name": "旧優生保護法に基づく優生手術等を受けた者に対する一時金の支給等に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBEBE.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
-    },
-    {
-      "session": 213,
-      "name": "子どもの貧困対策の推進に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC2D2.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
     },
     {
       "session": 214,
-      "name": "旧優生保護法に基づく優生手術等を受けた者等に対する補償金等の支給等に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCEA6.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
-    }
-  ],
-  "厚生労働委員長": [
-    {
-      "session": 213,
-      "name": "令和六年能登半島地震災害に係る住宅再建支援等給付金に係る差押禁止等に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC09A.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
-    },
-    {
-      "session": 213,
-      "name": "ハンセン病元患者家族に対する補償金の支給等に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC222.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
-    }
-  ],
-  "柚木道義君外八名": [
-    {
-      "session": 213,
-      "name": "訪問介護事業者に対する緊急の支援に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC0C2.htm",
+      "name": "令和六年能登半島地震災害により被害を受けた建物の除却の円滑化に関する暫定措置法案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC592.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
     },
     {
-      "session": 213,
-      "name": "介護・障害福祉従事者の人材確保に関する特別措置法案",
+      "session": 216,
+      "name": "被災者生活再建支援法の一部を改正する法律案",
       "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC0D2.htm",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD52.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "被災者生活再建支援法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD7A.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "主要食糧の需給及び価格の安定に関する法律の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF37A.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
-    },
+    }
+  ],
+  "柚木道義": [
     {
       "session": 214,
       "name": "訪問介護事業者に対する緊急の支援に関する法律案",
@@ -1845,15 +1245,7 @@
       "faction": "立憲民主党・無所属"
     }
   ],
-  "野間健君外七名": [
-    {
-      "session": 213,
-      "name": "有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別措置法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC0FA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
+  "野間健": [
     {
       "session": 214,
       "name": "有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別措置法の一部を改正する法律案",
@@ -1863,43 +1255,7 @@
       "faction": "立憲民主党・無所属"
     }
   ],
-  "階猛君外九名": [
-    {
-      "session": 213,
-      "name": "外国人一般労働者雇用制度の整備の推進に関する法律案",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC142.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "青柳仁士君外二名": [
-    {
-      "session": 213,
-      "name": "デジタル歳入給付庁の設置による内国税・保険料等の徴収等に関する業務及び公的給付の支給等に関する業務の効率化等の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC162.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会"
-    },
-    {
-      "session": 214,
-      "name": "デジタル歳入給付庁の設置による内国税・保険料等の徴収等に関する業務及び公的給付の支給等に関する業務の効率化等の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4C6.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会"
-    }
-  ],
-  "大西健介君外八名": [
-    {
-      "session": 213,
-      "name": "食品衛生法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC1B2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
+  "大西健介": [
     {
       "session": 214,
       "name": "食品衛生法の一部を改正する法律案",
@@ -1907,145 +1263,17 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC5D6.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
-    }
-  ],
-  "鈴木馨祐君外五名": [
-    {
-      "session": 213,
-      "name": "政治資金規正法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC1BE.htm",
-      "is_primary": true,
-      "faction": "自由民主党・無所属の会"
-    }
-  ],
-  "落合貴之君外十名": [
-    {
-      "session": 213,
-      "name": "政治資金規正法等の一部を改正する法律案",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC1EE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 有志の会"
     },
     {
-      "session": 214,
-      "name": "政治資金規正法の一部を改正する法律を廃止する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCED6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 有志の会"
-    },
-    {
-      "session": 214,
-      "name": "政治資金規正法等の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCEE2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 有志の会"
-    }
-  ],
-  "落合貴之君外七名": [
-    {
-      "session": 213,
-      "name": "政治資金パーティーの開催の禁止に関する法律案",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC1FA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "政治資金規正法及び租税特別措置法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCEF2.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "国土交通委員長": [
-    {
-      "session": 213,
-      "name": "公共工事の品質確保の促進に関する法律等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC1FE.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
-    }
-  ],
-  "文部科学委員長": [
-    {
-      "session": 213,
-      "name": "障害のある児童及び生徒のための教科用特定図書等の普及の促進等に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC226.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
-    }
-  ],
-  "吉田はるみ君外七名": [
-    {
-      "session": 213,
-      "name": "風俗営業等の規制及び業務の適正化等に関する法律の一部を改正する法律案",
+      "session": 217,
+      "name": "児童扶養手当法の一部を改正する等の法律案",
       "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC29A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "風俗営業等の規制及び業務の適正化等に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC476.htm",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF2E2.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
     }
   ],
-  "道下大樹君外十三名": [
-    {
-      "session": 213,
-      "name": "手話言語法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC2AA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "手話言語法案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC47A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "小宮山泰子君外六名": [
-    {
-      "session": 213,
-      "name": "性同一性障害者の性別の取扱いの特例に関する法律の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC2EE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "性同一性障害者の性別の取扱いの特例に関する法律の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4EE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "前原誠司君外三名": [
-    {
-      "session": 213,
-      "name": "新しい国のかたちの創造的改革の推進に関する基本法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC2DE.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会"
-    },
+  "前原誠司": [
     {
       "session": 214,
       "name": "新しい国のかたちの創造的改革の推進に関する基本法案",
@@ -2053,17 +1281,25 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC4CA.htm",
       "is_primary": true,
       "faction": "日本維新の会・教育無償化を実現する会"
+    },
+    {
+      "session": 216,
+      "name": "我が国の総合的な安全保障の確保を図るための土地等の取得、利用及び管理の規制に関する施策の推進に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD66.htm",
+      "is_primary": true,
+      "faction": "日本維新の会; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "我が国の総合的な安全保障の確保を図るための土地等の取得、利用及び管理の規制に関する施策の推進に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDE2E.htm",
+      "is_primary": true,
+      "faction": "日本維新の会; 国民民主党・無所属クラブ"
     }
   ],
-  "米山隆一君外八名": [
-    {
-      "session": 213,
-      "name": "不払養育費の立替・取立制度の導入に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC2FE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
+  "米山隆一": [
     {
       "session": 214,
       "name": "不払養育費の立替・取立制度の導入に関する法律案",
@@ -2073,23 +1309,7 @@
       "faction": "立憲民主党・無所属"
     }
   ],
-  "馬場伸幸君外四名": [
-    {
-      "session": 213,
-      "name": "全世代にわたる教育無償化等の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC326.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会"
-    },
-    {
-      "session": 213,
-      "name": "高等学校等に係る教育無償化等の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC332.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会"
-    },
+  "馬場伸幸": [
     {
       "session": 214,
       "name": "全世代にわたる教育無償化等の推進に関する法律案",
@@ -2107,51 +1327,7 @@
       "faction": "日本維新の会・教育無償化を実現する会"
     }
   ],
-  "近藤和也君外十二名": [
-    {
-      "session": 213,
-      "name": "令和六年能登半島地震災害により被害を受けた建物の除却の円滑化に関する暫定措置法案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC35A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
-    {
-      "session": 214,
-      "name": "令和六年能登半島地震災害により被害を受けた建物の除却の円滑化に関する暫定措置法案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC592.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "浦野靖人君外三名": [
-    {
-      "session": 213,
-      "name": "公職選挙法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC36A.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会; 国民民主党・無所属クラブ"
-    },
-    {
-      "session": 214,
-      "name": "公職選挙法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC3A6.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会; 国民民主党・無所属クラブ"
-    }
-  ],
-  "近藤昭一君外十四名": [
-    {
-      "session": 213,
-      "name": "水俣病問題の解決に向けて講ずべき措置に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC37A.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    },
+  "近藤昭一": [
     {
       "session": 214,
       "name": "水俣病問題の解決に向けて講ずべき措置に関する法律案",
@@ -2161,1015 +1337,35 @@
       "faction": "立憲民主党・無所属"
     }
   ],
-  "井上哲士": [
+  "地域活性化・こども政策・デジタル社会形成に関する特別委員長": [
     {
-      "session": 213,
-      "name": "政治資金規正法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB54A.htm",
+      "session": 214,
+      "name": "旧優生保護法に基づく優生手術等を受けた者等に対する補償金等の支給等に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCEA6.htm",
       "is_primary": true,
-      "faction": ""
-    },
+      "faction": "衆議院予備審査議案受理年月日"
+    }
+  ],
+  "山添拓": [
     {
-      "session": 213,
-      "name": "政党助成法を廃止する法律案",
+      "session": 214,
+      "name": "大深度地下の公共的使用に関する特別措置法の廃止に関する措置等に関する法律案",
       "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB576.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 216,
-      "name": "政治資金規正法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD832.htm",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCEA2.htm",
       "is_primary": true,
       "faction": ""
     },
     {
       "session": 216,
-      "name": "政党助成法を廃止する法律案",
+      "name": "大深度地下の公共的使用に関する特別措置法の廃止に関する措置等に関する法律案",
       "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD84E.htm",
-      "is_primary": true,
-      "faction": ""
-    }
-  ],
-  "大塚耕平": [
-    {
-      "session": 213,
-      "name": "電気料金の高騰に対する当分の間の措置として電気の使用者に対して再生可能エネルギー電気に係る賦課金の請求が行われないようにするために講ずべき措置等に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC07E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "財政法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC096.htm",
-      "is_primary": true,
-      "faction": ""
-    }
-  ],
-  "浜口誠": [
-    {
-      "session": 213,
-      "name": "揮発油価格高騰時における揮発油税等税率特例停止措置の実施並びに揮発油税等税率特例の廃止及び脱炭素社会の実現等に資する税制の構築のための措置に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC0B2.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "サイバー安全保障を確保するための能動的サイバー防御等に係る態勢の整備の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC132.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "自動車盗難対策等の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC18A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "組織的な犯罪の処罰及び犯罪収益の規制等に関する法律及び刑事訴訟法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC1A2.htm",
-      "is_primary": true,
-      "faction": ""
-    }
-  ],
-  "伊藤孝恵": [
-    {
-      "session": 213,
-      "name": "育児・介護二重負担者の支援に関する施策の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC0EA.htm",
-      "is_primary": true,
-      "faction": ""
-    }
-  ],
-  "田村まみ": [
-    {
-      "session": 213,
-      "name": "消費者対応業務関連特定行為対策の推進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC23E.htm",
-      "is_primary": true,
-      "faction": ""
-    }
-  ],
-  "竹詰仁君外一名": [
-    {
-      "session": 213,
-      "name": "政治資金規正法等の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC256.htm",
-      "is_primary": true,
-      "faction": ""
-    }
-  ],
-  "田名部匡代君外四名": [
-    {
-      "session": 213,
-      "name": "農業用植物の優良な品種を確保するための公的新品種育成の促進等に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC26A.htm",
-      "is_primary": true,
-      "faction": ""
-    }
-  ],
-  "川田龍平君外三名": [
-    {
-      "session": 213,
-      "name": "地域在来品種等の種苗の保存及び利用等の促進に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC27E.htm",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD92A.htm",
       "is_primary": true,
       "faction": ""
     }
   ],
   "内閣": [
-    {
-      "session": 213,
-      "name": "所得税法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB58A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "地方税法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB5AE.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "地方交付税法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB5C2.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "関税定率法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB5D6.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "国際通貨基金及び国際復興開発銀行への加盟に伴う措置に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB5EA.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "在外公館の名称及び位置並びに在外公館に勤務する外務公務員の給与に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB63E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "二千二十七年国際園芸博覧会政府委員の設置に関する臨時措置法案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB652.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "国家公務員等の旅費に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB666.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "生活困窮者自立支援法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB67A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "雇用保険法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB68E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "奄美群島振興開発特別措置法及び小笠原諸島振興開発特別措置法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB6A2.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "広域的地域活性化のための基盤整備に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB6B6.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "特定防衛調達に係る国庫債務負担行為により支出すべき年限に関する特別措置法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB6CA.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "防衛省設置法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB6DE.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "裁判所職員定員法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB706.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB72E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "二酸化炭素の貯留事業に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB742.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "都市緑地法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB756.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "流通業務の総合化及び効率化の促進に関する法律及び貨物自動車運送事業法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB76A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和六年能登半島地震災害の被災者に係る所得税法及び災害被害者に対する租税の減免、徴収猶予等に関する法律の臨時特例に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB85E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "地方税法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB862.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "子ども・子育て支援法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB876.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "新たな事業の創出及び産業への投資を促進するための産業競争力強化法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB88A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "重要経済安保情報の保護及び活用に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB982.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB996.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "食料・農業・農村基本法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB9AA.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "食料供給困難事態対策法案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB9BE.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "食料の安定供給のための農地の確保及びその有効な利用を図るための農業振興地域の整備に関する法律等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB9D2.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "地域再生法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBA36.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "銃砲刀剣類所持等取締法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBA4A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "地方自治法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBA5E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "放送法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBA96.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "日本電信電話株式会社等に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBA82.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBACE.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "学校教育法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBABA.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "消費生活用製品安全法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBAE2.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "風力発電設備の設置等による電波の伝搬障害を回避し電波を用いた自衛隊等の円滑かつ安全な活動を確保するための措置に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBAF6.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "道路交通法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBBA2.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "自動車の保管場所の確保等に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBBB6.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBBCA.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "再生医療等の安全性の確保等に関する法律及び臨床研究法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBBDE.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "地球温暖化対策の推進に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBBF2.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "地域における生物の多様性の増進のための活動の促進等に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBC06.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "公益社団法人及び公益財団法人の認定等に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBC1A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "公益信託に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBC2E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "総合法律支援法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBC42.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "民法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBD0A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "農業の生産性の向上のためのスマート農業技術の活用の促進に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBD1E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBD32.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "特定農産加工業経営改善臨時措置法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBD46.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "建設業法及び公共工事の入札及び契約の適正化の促進に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBD5A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBCE6.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律案",
-      "status": "参議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBED2.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び次世代育成支援対策推進法の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBEF6.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBF2A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBF3E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "事業性融資の推進等に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBF52.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "出入国管理及び難民認定法等の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBF66.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBF7A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "資源循環の促進のための再資源化事業等の高度化に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBF8E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "学校設置者等及び民間教育保育等事業者による児童対象性暴力等の防止等のための措置に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC002.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC156.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和六年度一般会計予算",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB52A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和六年度特別会計予算",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB52E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和六年度政府関係機関予算",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB532.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "グローバル戦闘航空プログラム（ＧＣＡＰ）政府間機関の設立に関する条約の締結について承認を求めるの件",
-      "status": "両院承認",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB8C2.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "日本国の自衛隊とドイツ連邦共和国の軍隊との間における物品又は役務の相互の提供に関する日本国政府とドイツ連邦共和国政府との間の協定の締結について承認を求めるの件",
-      "status": "両院承認",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB8D6.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "投資の自由化、促進及び保護に関する日本国とアンゴラ共和国との間の協定の締結について承認を求めるの件",
-      "status": "両院承認",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB8EA.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "所得に対する租税に関する二重課税の除去並びに脱税及び租税回避の防止のための日本国とギリシャ共和国との間の条約の締結について承認を求めるの件",
-      "status": "両院承認",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB90E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "経済上の連携に関する日本国と欧州連合との間の協定を改正する議定書の締結について承認を求めるの件",
-      "status": "両院承認",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBD6E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "航空業務に関する日本国政府とクロアチア共和国政府との間の協定の締結について承認を求めるの件",
-      "status": "両院承認",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBD82.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "社会保障に関する日本国とオーストリア共和国との間の協定の締結について承認を求めるの件",
-      "status": "両院承認",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBD96.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "刑事に関する共助に関する日本国とブラジル連邦共和国との間の条約の締結について承認を求めるの件",
-      "status": "両院承認",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBDAA.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "国際復興開発銀行協定の改正の受諾について承認を求めるの件",
-      "status": "両院承認",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBDBE.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "欧州復興開発銀行を設立する協定の改正の受諾について承認を求めるの件",
-      "status": "両院承認",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBDD2.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "千九百七十二年の廃棄物その他の物の投棄による海洋汚染の防止に関する条約の千九百九十六年の議定書の二千九年の改正の受諾について承認を求めるの件",
-      "status": "両院承認",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBDE6.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "放送法第七十条第二項の規定に基づき、承認を求めるの件",
-      "status": "両院承認",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB6F2.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "両院承諾",
-      "status": "経過",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE46.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "両院承諾",
-      "status": "経過",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE4A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "両院承諾",
-      "status": "経過",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE4E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "両院承諾",
-      "status": "経過",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE52.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "両院承諾",
-      "status": "経過",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE56.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "両院承諾",
-      "status": "経過",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE5A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "衆議院で閉会中審査",
-      "status": "経過",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC012.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "衆議院で閉会中審査",
-      "status": "経過",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC022.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "衆議院で閉会中審査",
-      "status": "経過",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC032.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "衆議院で閉会中審査",
-      "status": "経過",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC1CE.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "衆議院で閉会中審査",
-      "status": "経過",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC1DE.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和二年度一般会計歳入歳出決算",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE16.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和二年度特別会計歳入歳出決算",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE1A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和二年度国税収納金整理資金受払計算書",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE1E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和二年度政府関係機関決算書",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE22.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和三年度一般会計歳入歳出決算",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE2E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和三年度特別会計歳入歳出決算",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE32.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和三年度国税収納金整理資金受払計算書",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE36.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和三年度政府関係機関決算書",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE3A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和四年度一般会計歳入歳出決算",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE66.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和四年度特別会計歳入歳出決算",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE6A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和四年度国税収納金整理資金受払計算書",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE6E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和四年度政府関係機関決算書",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE72.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和二年度国有財産増減及び現在額総計算書",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE26.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和二年度国有財産無償貸付状況総計算書",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE2A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和三年度国有財産増減及び現在額総計算書",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE3E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和三年度国有財産無償貸付状況総計算書",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE42.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和四年度国有財産増減及び現在額総計算書",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE5E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "令和四年度国有財産無償貸付状況総計算書",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAE62.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "日本放送協会令和二年度財産目録、貸借対照表、損益計算書、資本等変動計算書及びキャッシュ・フロー計算書",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD0A.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "日本放送協会令和三年度財産目録、貸借対照表、損益計算書、資本等変動計算書及びキャッシュ・フロー計算書",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD0E.htm",
-      "is_primary": true,
-      "faction": ""
-    },
-    {
-      "session": 213,
-      "name": "日本放送協会令和四年度財産目録、貸借対照表、損益計算書、資本等変動計算書及びキャッシュ・フロー計算書",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDAD32.htm",
-      "is_primary": true,
-      "faction": ""
-    },
     {
       "session": 214,
       "name": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律案",
@@ -3433,145 +1629,769 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD9F6.htm",
       "is_primary": true,
       "faction": ""
-    }
-  ],
-  "笠浩史君外十三名": [
-    {
-      "session": 213,
-      "name": "文部科学大臣盛山正仁君不信任決議案",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDB8AE.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "山井和則君外九名": [
-    {
-      "session": 213,
-      "name": "予算委員長小野寺五典君解任決議案",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBAFA.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "奥野総一郎君外八名": [
-    {
-      "session": 213,
-      "name": "財務大臣鈴木俊一君不信任決議案",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDBB8E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "山口俊一君外十一名": [
-    {
-      "session": 213,
-      "name": "ガザ地区における人道状況の改善と速やかな停戦の実現を求める決議案",
-      "status": "本院可決",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC346.htm",
-      "is_primary": true,
-      "faction": "自由民主党・無所属の会; 立憲民主党・無所属; 日本維新の会・教育無償化を実現する会; 公明党; 国民民主党・無所属クラブ"
-    }
-  ],
-  "安住淳君外十名": [
-    {
-      "session": 213,
-      "name": "岸田内閣不信任決議案",
-      "status": "本院議了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC382.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "議院運営委員長": [
-    {
-      "session": 213,
-      "name": "衆議院規則の一部を改正する規則案",
-      "status": "本院可決",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC0FE.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
     },
     {
-      "session": 213,
-      "name": "衆議院規則の一部を改正する規則案",
-      "status": "本院可決",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDC37E.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
-    },
-    {
-      "session": 216,
-      "name": "国会議員の歳費、旅費及び手当等に関する法律の一部を改正する法律案",
+      "session": 217,
+      "name": "所得税法等の一部を改正する法律案",
       "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDCCA.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
-    },
-    {
-      "session": 216,
-      "name": "国会議員の秘書の給与等に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDCCE.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
-    },
-    {
-      "session": 216,
-      "name": "国会職員の育児休業等に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDCD2.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
-    },
-    {
-      "session": 216,
-      "name": "国会議員の歳費、旅費及び手当等に関する法律の一部を改正する法律案",
-      "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD32.htm",
-      "is_primary": true,
-      "faction": "衆議院予備審査議案受理年月日"
-    }
-  ],
-  "遠藤敬君外三名": [
-    {
-      "session": 214,
-      "name": "政治資金規正法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCEB2.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会"
-    },
-    {
-      "session": 214,
-      "name": "公職選挙法の一部を改正する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCEBE.htm",
-      "is_primary": true,
-      "faction": "日本維新の会・教育無償化を実現する会"
-    }
-  ],
-  "山添拓": [
-    {
-      "session": 214,
-      "name": "大深度地下の公共的使用に関する特別措置法の廃止に関する措置等に関する法律案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDCEA2.htm",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE0CA.htm",
       "is_primary": true,
       "faction": ""
     },
     {
-      "session": 216,
-      "name": "大深度地下の公共的使用に関する特別措置法の廃止に関する措置等に関する法律案",
+      "session": 217,
+      "name": "地方税法及び地方税法等の一部を改正する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE0E2.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "地方交付税法等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE0FA.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "重要電子計算機に対する不正な行為による被害の防止に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE15E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE176.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "関税定率法等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE18E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "国際開発協会への加盟に伴う措置に関する法律及び米州投資公社への加盟に伴う措置に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE1D6.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "大学等における修学の支援に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE1BE.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE1EE.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "戦没者等の遺族に対する特別弔慰金支給法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE206.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "情報処理の促進に関する法律及び特別会計に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE21E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "道路法等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE236.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "港湾法等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE24E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "裁判所職員定員法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE32E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE346.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "防衛省設置法等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE35E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "災害対策基本法等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE3B2.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "株式会社地域経済活性化支援機構法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE3CA.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "電波法及び放送法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE3E2.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "国会議員の選挙等の執行経費の基準に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE3FA.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "医療法等の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE412.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "土地改良法等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE42A.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "独立行政法人国際協力機構法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE50E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "株式会社日本政策投資銀行法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE556.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "特別会計に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE56E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "漁業災害補償法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE586.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "鳥獣の保護及び管理並びに狩猟の適正化に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE59E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE5C6.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "人工知能関連技術の研究開発及び活用の推進に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE7A2.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE7BA.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "森林経営管理法及び森林法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE7D2.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "公益通報者保護法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE826.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE83E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE856.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE8D2.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "日本学術会議法案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE8EA.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "保険業法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE902.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "信託業法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE91A.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "資金決済に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE932.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "児童福祉法等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE94A.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "行政手続における特定の個人を識別するための番号の利用等に関する法律及び住民基本台帳法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE976.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "民事裁判情報の活用の促進に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE98E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "譲渡担保契約及び所有権留保契約に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE9A6.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "譲渡担保契約及び所有権留保契約に関する法律の施行に伴う関係法律の整備等に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE9BE.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "食品等の流通の合理化及び取引の適正化に関する法律及び卸売市場法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE9D6.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE9EE.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "風俗営業等の規制及び業務の適正化等に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEA06.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "下請代金支払遅延等防止法及び下請中小企業振興法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEB5A.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "盗難特定金属製物品の処分の防止等に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEB72.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEB8A.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "環境影響評価法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEBA2.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "独立行政法人男女共同参画機構法案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDECBE.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "独立行政法人男女共同参画機構法の施行に伴う関係法律の整備等に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDECD6.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDECEE.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "航空法等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDED06.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDED1E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "労働安全衛生法及び作業環境測定法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDED36.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "船員法等の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEE82.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF07E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "令和七年度一般会計予算",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE03E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "令和七年度特別会計予算",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE042.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "令和七年度政府関係機関予算",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE046.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "所得に対する租税に関する二重課税の除去並びに脱税及び租税回避の防止のための日本国政府とウクライナ政府との間の条約の締結について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE5DE.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "所得に対する租税に関する二重課税の除去並びに脱税及び租税回避の防止のための日本国とトルクメニスタンとの間の条約の締結について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE5F6.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "所得に対する租税に関する二重課税の除去並びに脱税及び租税回避の防止のための日本国とアルメニア共和国との間の条約の締結について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE60E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "経済上の連携に関する日本国とインドネシア共和国との間の協定を改正する議定書の締結について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE626.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "航空業務に関する日本国とチェコ共和国との間の協定の締結について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE63E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "航空業務に関する日本国とルクセンブルク大公国との間の協定の締結について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE656.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "日本国の自衛隊とフィリピンの軍隊との間における相互のアクセス及び協力の円滑化に関する日本国とフィリピン共和国との間の協定の締結について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE66E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "日本国の自衛隊とイタリア共和国の軍隊との間における物品又は役務の相互の提供に関する日本国政府とイタリア共和国政府との間の協定の締結について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE686.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "千九百九十四年四月十五日にマラケシュで作成された世界貿易機関を設立するマラケシュ協定のサービスの貿易に関する一般協定の日本国の特定の約束に係る表の改善に関する確認書の締結について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEBBA.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "東南アジア諸国連合貿易投資観光促進センターを設立する協定の第二次改正の受諾について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEBD2.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "海洋法に関する国際連合条約に基づくいずれの国の管轄にも属さない区域における海洋の生物の多様性の保全及び持続可能な利用に関する協定の締結について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEBEA.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "職業上の安全及び健康並びに作業環境に関する条約（第百五十五号）の締結について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEC02.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "千九百九十五年の漁船員の訓練及び資格証明並びに当直の基準に関する国際条約の締結について承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEE9A.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "放送法第七十条第二項の規定に基づき、承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE442.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "特定船舶の入港の禁止に関する特別措置法第五条第一項の規定に基づき、特定船舶の入港禁止の実施につき承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEF72.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "外国為替及び外国貿易法第十条第二項の規定に基づき、北朝鮮を仕向地とする貨物の輸出及び北朝鮮を原産地又は船積地域とする貨物の輸入につき承認義務を課する等の措置を講じたことについて承認を求めるの件",
+      "status": "両院承認",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEF8A.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "両院承諾",
+      "status": "経過",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDE6.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "両院承諾",
+      "status": "経過",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDEA.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "両院承諾",
+      "status": "経過",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDEE.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "両院承諾",
+      "status": "経過",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDF2.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "衆議院で閉会中審査",
+      "status": "経過",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEDDE.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "衆議院で閉会中審査",
+      "status": "経過",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEDF2.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "衆議院で閉会中審査",
+      "status": "経過",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF092.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "令和五年度一般会計歳入歳出決算",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDFE.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "令和五年度特別会計歳入歳出決算",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDE02.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "令和五年度国税収納金整理資金受払計算書",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDE06.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "令和五年度政府関係機関決算書",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDE0A.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "令和五年度国有財産増減及び現在額総計算書",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDF6.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "令和五年度国有財産無償貸付状況総計算書",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDFA.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "日本放送協会令和二年度財産目録、貸借対照表、損益計算書、資本等変動計算書及びキャッシュ・フロー計算書",
       "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD92A.htm",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDE12.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "日本放送協会令和三年度財産目録、貸借対照表、損益計算書、資本等変動計算書及びキャッシュ・フロー計算書",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDE16.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "日本放送協会令和四年度財産目録、貸借対照表、損益計算書、資本等変動計算書及びキャッシュ・フロー計算書",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDE1A.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "日本放送協会令和五年度財産目録、貸借対照表、損益計算書、資本等変動計算書及びキャッシュ・フロー計算書",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDE1E.htm",
       "is_primary": true,
       "faction": ""
     }
   ],
-  "田村憲久君外七名": [
+  "田村憲久": [
     {
       "session": 214,
       "name": "旧優生保護法に基づく優生手術等の被害者に対する謝罪とその被害の回復に関する決議案",
@@ -3581,17 +2401,7 @@
       "faction": "自由民主党・無所属の会; 立憲民主党・無所属; 日本維新の会・教育無償化を実現する会; 公明党; 日本共産党; 国民民主党・無所属クラブ; 有志の会; れいわ新選組"
     }
   ],
-  "笠浩史君外四名": [
-    {
-      "session": 214,
-      "name": "石破内閣不信任決議案",
-      "status": "未了",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD2E6.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会・教育無償化を実現する会; 日本共産党; 国民民主党・無所属クラブ"
-    }
-  ],
-  "森田俊和君外十二名": [
+  "森田俊和": [
     {
       "session": 215,
       "name": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部を改正する法律案",
@@ -3607,19 +2417,17 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD7AE.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属"
-    }
-  ],
-  "古川元久君外一名": [
+    },
     {
-      "session": 216,
-      "name": "賃金上昇を上回る所得税の負担増加等に対処するために所得税に関し講ずべき措置に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD806.htm",
+      "session": 217,
+      "name": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部を改正する法律案",
+      "status": "撤回",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDAA.htm",
       "is_primary": true,
-      "faction": "国民民主党・無所属クラブ"
+      "faction": "立憲民主党・無所属"
     }
   ],
-  "大串博志君外十二名": [
+  "大串博志": [
     {
       "session": 216,
       "name": "政治資金規正法の一部を改正する法律案",
@@ -3627,9 +2435,65 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD9FE.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ; 日本共産党; 参政党; 日本保守党"
+    },
+    {
+      "session": 216,
+      "name": "政治資金規正法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDBA6.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 参政党; 日本保守党"
+    },
+    {
+      "session": 216,
+      "name": "政治資金規正法等の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDC72.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 217,
+      "name": "政治資金規正法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD82.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 参政党; 日本保守党"
+    },
+    {
+      "session": 217,
+      "name": "政治資金規正法等の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD9A.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 216,
+      "name": "政治資金規正法及び租税特別措置法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDC5E.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 有志の会; 参政党"
+    },
+    {
+      "session": 217,
+      "name": "政治資金規正法及び租税特別措置法の一部を改正する法律案",
+      "status": "撤回",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD8A.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 有志の会; 参政党"
+    },
+    {
+      "session": 217,
+      "name": "政治資金規正法及び租税特別措置法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEE32.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 有志の会; 参政党"
     }
   ],
-  "田中健君外一名": [
+  "田中健": [
     {
       "session": 216,
       "name": "揮発油価格高騰時における揮発油税等税率特例停止措置の実施並びに揮発油税等の税率の特例の廃止及び脱炭素社会の実現等に資する税制の構築のための措置に関する法律案",
@@ -3661,9 +2525,65 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD0E.htm",
       "is_primary": true,
       "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "揮発油価格高騰時における揮発油税等税率特例停止措置の実施並びに揮発油税等の税率の特例の廃止及び脱炭素社会の実現等に資する税制の構築のための措置に関する法律案",
+      "status": "撤回",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDB6.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "一般会計からの自動車安全特別会計の自動車事故対策勘定への繰入れのために講ずべき措置に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDBA.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "財政法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDBE.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "サイバー安全保障を確保するための能動的サイバー防御等に係る態勢の整備の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDE26.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "若者の就労所得に係る所得税の負担を軽減するための所得控除の拡充に関し講ずべき措置に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEEFE.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "外国為替資金特別会計の在り方の見直しに関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEF12.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "自動車盗難対策等の推進に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF0CA.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
     }
   ],
-  "丹野みどり君外一名": [
+  "丹野みどり": [
     {
       "session": 216,
       "name": "電気料金の高騰に対する当分の間の措置として電気の使用者に対して再生可能エネルギー電気に係る賦課金の請求が行われないようにするために講ずべき措置等に関する法律案",
@@ -3679,9 +2599,25 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD46.htm",
       "is_primary": true,
       "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "電気料金の高騰に対する当分の間の措置として電気の使用者に対して再生可能エネルギー電気に係る賦課金の請求が行われないようにするために講ずべき措置等に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDDE.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "消費者対応業務関連特定行為対策の推進に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDA2.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
     }
   ],
-  "木原誠二君外五名": [
+  "木原誠二": [
     {
       "session": 216,
       "name": "政治資金規正法等の一部を改正する法律案",
@@ -3707,55 +2643,81 @@
       "faction": "自由民主党・無所属の会"
     }
   ],
-  "大串博志君外七名": [
+  "議院運営委員長": [
     {
       "session": 216,
-      "name": "政治資金規正法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDBA6.htm",
+      "name": "国会議員の歳費、旅費及び手当等に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDCCA.htm",
       "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会; 参政党; 日本保守党"
+      "faction": "衆議院予備審査議案受理年月日"
     },
     {
       "session": 216,
-      "name": "政治資金規正法等の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDC72.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属"
-    }
-  ],
-  "大串博志君外九名": [
-    {
-      "session": 216,
-      "name": "政治資金規正法及び租税特別措置法の一部を改正する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDC5E.htm",
-      "is_primary": true,
-      "faction": "立憲民主党・無所属; 有志の会; 参政党"
-    }
-  ],
-  "古川元久君外三名": [
-    {
-      "session": 216,
-      "name": "政治資金監視委員会等の設置その他の政治資金の透明性を確保するための措置等に関する法律案",
+      "name": "国会議員の秘書の給与等に関する法律の一部を改正する法律案",
       "status": "成立",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDCB2.htm",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDCCE.htm",
       "is_primary": true,
-      "faction": "国民民主党・無所属クラブ; 公明党"
-    }
-  ],
-  "古川元久君外二名": [
+      "faction": "衆議院予備審査議案受理年月日"
+    },
     {
       "session": 216,
-      "name": "政党交付金の交付停止等に関する制度の創設に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDCBE.htm",
+      "name": "国会職員の育児休業等に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDCD2.htm",
       "is_primary": true,
-      "faction": "国民民主党・無所属クラブ"
+      "faction": "衆議院予備審査議案受理年月日"
+    },
+    {
+      "session": 216,
+      "name": "国会議員の歳費、旅費及び手当等に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD32.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    },
+    {
+      "session": 217,
+      "name": "議院に出頭する証人等の旅費及び日当に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEDCA.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    },
+    {
+      "session": 217,
+      "name": "国会法及び議院における証人の宣誓及び証言等に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEFD6.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    },
+    {
+      "session": 217,
+      "name": "衆議院規則の一部を改正する規則案",
+      "status": "本院可決",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEFDA.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    },
+    {
+      "session": 217,
+      "name": "衆議院憲法審査会規程の一部を改正する規程案",
+      "status": "本院可決",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEDBE.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    },
+    {
+      "session": 217,
+      "name": "衆議院情報監視審査会規程の一部を改正する規程案",
+      "status": "本院可決",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEFDE.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
     }
   ],
-  "浅野哲君外一名": [
+  "浅野哲": [
     {
       "session": 216,
       "name": "育児・介護二重負担者の支援に関する施策の推進に関する法律案",
@@ -3763,19 +2725,17 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDCFA.htm",
       "is_primary": true,
       "faction": "国民民主党・無所属クラブ"
-    }
-  ],
-  "近藤和也君外七名": [
+    },
     {
-      "session": 216,
-      "name": "被災者生活再建支援法の一部を改正する法律案",
+      "session": 217,
+      "name": "育児・介護二重負担者の支援に関する施策の推進に関する法律案",
       "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD52.htm",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDD2.htm",
       "is_primary": true,
-      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ"
+      "faction": "国民民主党・無所属クラブ"
     }
   ],
-  "中島克仁君外八名": [
+  "中島克仁": [
     {
       "session": 216,
       "name": "健康保険法及び高齢者の医療の確保に関する法律の一部を改正する法律案",
@@ -3783,16 +2743,510 @@
       "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD62.htm",
       "is_primary": true,
       "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "健康保険法及び高齢者の医療の確保に関する法律の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDDD6.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "医療保険の被保険者証等の交付等の特例に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE05A.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 217,
+      "name": "健康保険法等の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE536.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
     }
   ],
-  "前原誠司君外五名": [
+  "井上哲士": [
     {
       "session": 216,
-      "name": "我が国の総合的な安全保障の確保を図るための土地等の取得、利用及び管理の規制に関する施策の推進に関する法律案",
-      "status": "衆議院で閉会中審査",
-      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDDD66.htm",
+      "name": "政治資金規正法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD832.htm",
       "is_primary": true,
-      "faction": "日本維新の会; 国民民主党・無所属クラブ"
+      "faction": ""
+    },
+    {
+      "session": 216,
+      "name": "政党助成法を廃止する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDD84E.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "政治資金規正法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEB26.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "政党助成法を廃止する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEB42.htm",
+      "is_primary": true,
+      "faction": ""
+    }
+  ],
+  "井坂信彦": [
+    {
+      "session": 217,
+      "name": "訪問介護事業者に対する緊急の支援に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE06A.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "介護・障害福祉従事者の人材確保に関する特別措置法案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE082.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ"
+    }
+  ],
+  "大野敬太郎": [
+    {
+      "session": 217,
+      "name": "政治資金規正法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE086.htm",
+      "is_primary": true,
+      "faction": "自由民主党・無所属の会"
+    },
+    {
+      "session": 217,
+      "name": "政治資金規正法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE08A.htm",
+      "is_primary": true,
+      "faction": "自由民主党・無所属の会"
+    }
+  ],
+  "津村啓介": [
+    {
+      "session": 217,
+      "name": "高等学校等就学支援金の支給に関する法律の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE456.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 217,
+      "name": "義務教育諸学校等の施設費の国庫負担等に関する法律の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE46A.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "東日本大震災復興・防災・災害対策に関する特別委員長": [
+    {
+      "session": 217,
+      "name": "地震防災対策強化地域における地震対策緊急整備事業に係る国の財政上の特別措置に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDED3A.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    }
+  ],
+  "国土交通委員長": [
+    {
+      "session": 217,
+      "name": "半島振興法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDED3E.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    },
+    {
+      "session": 217,
+      "name": "貨物自動車運送事業法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF10E.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    },
+    {
+      "session": 217,
+      "name": "貨物自動車運送事業の適正化のための体制の整備等の推進に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF112.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    }
+  ],
+  "総務委員長": [
+    {
+      "session": 217,
+      "name": "地域人口の急減に対処するための特定地域づくり事業の推進に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEDBA.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    },
+    {
+      "session": 217,
+      "name": "行政書士法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF12E.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    }
+  ],
+  "農林水産委員長": [
+    {
+      "session": 217,
+      "name": "棚田地域振興法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEDC2.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    },
+    {
+      "session": 217,
+      "name": "山村振興法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEDC6.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    }
+  ],
+  "稲富修二": [
+    {
+      "session": 217,
+      "name": "租税特別措置法及び東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律の一部を改正する法律案",
+      "status": "撤回",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEF9E.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "吉川元": [
+    {
+      "session": 217,
+      "name": "地方税法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEFB2.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "黒岩宇洋": [
+    {
+      "session": 217,
+      "name": "民法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF066.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "藤田文武": [
+    {
+      "session": 217,
+      "name": "婚姻前の氏の通称使用に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF0A2.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    }
+  ],
+  "円より子": [
+    {
+      "session": 217,
+      "name": "組織的な犯罪の処罰及び犯罪収益の規制等に関する法律及び刑事訴訟法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF0DE.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    },
+    {
+      "session": 217,
+      "name": "民法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF12A.htm",
+      "is_primary": true,
+      "faction": "国民民主党・無所属クラブ"
+    }
+  ],
+  "内閣委員長": [
+    {
+      "session": 217,
+      "name": "ギャンブル等依存症対策基本法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF132.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    },
+    {
+      "session": 217,
+      "name": "手話に関する施策の推進に関する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF29A.htm",
+      "is_primary": true,
+      "faction": ""
+    }
+  ],
+  "神谷裕": [
+    {
+      "session": 217,
+      "name": "国有林野事業に従事する職員の労働関係を円滑に調整するための行政執行法人の労働関係に関する法律の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF152.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; 有志の会"
+    },
+    {
+      "session": 217,
+      "name": "国有林野事業に従事する職員の給与等に関する特例法案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF15E.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; 有志の会"
+    },
+    {
+      "session": 217,
+      "name": "農業用植物の優良な品種を確保するための公的新品種育成の促進等に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF16A.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; 有志の会"
+    },
+    {
+      "session": 217,
+      "name": "地域在来品種等の種苗の保存及び利用等の促進に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF176.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; 有志の会"
+    },
+    {
+      "session": 217,
+      "name": "食料供給困難事態対策法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF182.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 有志の会"
+    }
+  ],
+  "文部科学委員長": [
+    {
+      "session": 217,
+      "name": "スポーツ基本法及びスポーツにおけるドーピングの防止活動の推進に関する法律の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF1EE.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    }
+  ],
+  "厚生労働委員長": [
+    {
+      "session": 217,
+      "name": "社会保険労務士法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF1F2.htm",
+      "is_primary": true,
+      "faction": "衆議院予備審査議案受理年月日"
+    },
+    {
+      "session": 217,
+      "name": "自殺対策基本法の一部を改正する法律案",
+      "status": "成立",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEF5A.htm",
+      "is_primary": true,
+      "faction": ""
+    }
+  ],
+  "武正公一": [
+    {
+      "session": 217,
+      "name": "衆議院の解散に係る手続等に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF23E.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    },
+    {
+      "session": 217,
+      "name": "衆議院規則の一部を改正する規則案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF252.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "川内博史": [
+    {
+      "session": 217,
+      "name": "租税特別措置の適用状況の透明化等に関する法律及び地方税法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF282.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 日本維新の会"
+    }
+  ],
+  "池下卓": [
+    {
+      "session": 217,
+      "name": "政治団体における複式簿記の導入に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF2BA.htm",
+      "is_primary": true,
+      "faction": "日本維新の会"
+    }
+  ],
+  "山口俊一": [
+    {
+      "session": 217,
+      "name": "郵政民営化法等の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF316.htm",
+      "is_primary": true,
+      "faction": "自由民主党・無所属の会; 国民民主党・無所属クラブ; 公明党"
+    }
+  ],
+  "山田勝彦": [
+    {
+      "session": 217,
+      "name": "有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別措置法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF36E.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; 有志の会"
+    }
+  ],
+  "平岡秀夫": [
+    {
+      "session": 217,
+      "name": "刑事訴訟法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF362.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; れいわ新選組; 日本共産党; 参政党"
+    }
+  ],
+  "谷田川元": [
+    {
+      "session": 217,
+      "name": "特定空港周辺航空機騒音対策特別措置法の一部を改正する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF386.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属"
+    }
+  ],
+  "篠原孝": [
+    {
+      "session": 217,
+      "name": "国による全ての水俣病の被害者の救済の実現に向けた給付金等の支給に係る制度の創設に関する法律案",
+      "status": "衆議院で閉会中審査",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF3D2.htm",
+      "is_primary": true,
+      "faction": "立憲民主党・無所属; 国民民主党・無所属クラブ; れいわ新選組; 日本共産党; 有志の会; 参政党"
+    }
+  ],
+  "秋野公造": [
+    {
+      "session": 217,
+      "name": "特定生殖補助医療に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDE146.htm",
+      "is_primary": true,
+      "faction": ""
+    }
+  ],
+  "伊藤孝恵": [
+    {
+      "session": 217,
+      "name": "学校教育法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEE0E.htm",
+      "is_primary": true,
+      "faction": ""
+    }
+  ],
+  "吉良よし子": [
+    {
+      "session": 217,
+      "name": "大深度地下の公共的使用に関する特別措置法の廃止に関する措置等に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF022.htm",
+      "is_primary": true,
+      "faction": ""
+    }
+  ],
+  "石橋通宏": [
+    {
+      "session": 217,
+      "name": "労働安全衛生法及び特定受託事業者に係る取引の適正化等に関する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF052.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "出入国管理及び難民認定法の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF342.htm",
+      "is_primary": true,
+      "faction": ""
+    },
+    {
+      "session": 217,
+      "name": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の一部を改正する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF35E.htm",
+      "is_primary": true,
+      "faction": ""
+    }
+  ],
+  "高木真理": [
+    {
+      "session": 217,
+      "name": "児童の朝の居場所の確保を図るための措置等に関する法律案",
+      "status": "未了",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF10A.htm",
+      "is_primary": true,
+      "faction": ""
+    }
+  ],
+  "衆議院予備審査議案受理年月日": [
+    {
+      "session": 217,
+      "name": "令和七年度一般会計予算",
+      "status": "参議院回付案（同意）",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDEE9E.htm",
+      "is_primary": true,
+      "faction": ""
+    }
+  ],
+  "森山裕": [
+    {
+      "session": 217,
+      "name": "国際協同組合年に当たり協同組合の振興を図る決議案",
+      "status": "本院可決",
+      "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DDF116.htm",
+      "is_primary": true,
+      "faction": "自由民主党・無所属の会; 立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ; 公明党; れいわ新選組; 日本共産党; 有志の会; 参政党; 日本保守党; 無所属"
     }
   ]
 }

@@ -97,7 +97,7 @@ def fetch_proposer(keika_url: str) -> tuple[str, str]:
 
 def normalize_name(raw: str) -> str:
     """「山田　太郎君外X名」→「山田太郎」"""
-    raw = re.sub(r'君外\d+名.*', '', raw)
+    raw = re.sub(r'君外[一二三四五六七八九十百千万\d]+名.*', '', raw)
     raw = re.sub(r'君$', '', raw)
     raw = raw.replace('　', '').replace(' ', '').strip()
     return raw
