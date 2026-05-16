@@ -49,8 +49,8 @@ def calc_bill_stats(member_id: str, bills_index: dict) -> dict:
     }
 
 
-# 現任期開始（2024年10月衆院選後）
-CURRENT_TERM_START = "2024-10-28"
+# 第217回国会（2025年3月〜）を対象期間とする
+CURRENT_TERM_START = "2025-03-01"
 
 
 def count_content_words(text: str) -> int:
