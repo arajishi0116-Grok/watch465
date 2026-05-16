@@ -53,15 +53,6 @@ function loadData(): MemberWithStats[] {
   });
 }
 
-const SORT_LABELS: Record<string, string> = {
-  committee_attendance_rate: "委員会発言率",
-  plenary_attendance_rate: "本会議発言率",
-  interpellations: "質問主意書",
-  bills_sponsored: "主提案",
-  bills_cosponsored: "共同提案",
-  bills_sponsored_pending: "審議中",
-  bills_sponsored_passed: "成立",
-};
 
 export default function Home({
   searchParams,
