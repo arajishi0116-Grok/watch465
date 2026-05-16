@@ -1,13 +1,13 @@
 {
-  "speech_count": 13,
-  "committee_speech_count": 13,
+  "speech_count": 0,
+  "committee_speech_count": 0,
   "plenary_speech_count": 0,
   "interpellations": 0,
-  "bills_sponsored": 3,
-  "bills_sponsored_passed": 2,
-  "bills_sponsored_pending": 0,
-  "bills_cosponsored": 0,
-  "from_date": "2025-03-01",
+  "from_date": "2026-02-18",
   "until_date": "2026-05-16",
-  "updated_at": "2026-05-16T12:47:09.190166+00:00"
+  "updated_at": "2026-05-16T13:04:09.716018+00:00",
+  "bills_sponsored": 0,
+  "bills_sponsored_passed": 0,
+  "bills_sponsored_pending": 0,
+  "bills_cosponsored": 0
 }
