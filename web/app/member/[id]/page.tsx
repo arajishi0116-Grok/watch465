@@ -27,6 +27,15 @@ type Stats = {
   updated_at: string;
 };
 
+type BillDetail = {
+  session: number;
+  name: string;
+  status: string;
+  url: string;
+  is_primary: boolean;
+  faction: string;
+};
+
 function StatCard({
   label,
   value,
@@ -63,6 +72,13 @@ export default function MemberPage({ params }: { params: { id: string } }) {
     : null;
 
   const kokkaiBrowseUrl = `https://kokkai.ndl.go.jp/#/detail?speaker=${encodeURIComponent(member.name.replace(/　/g, ""))}&sessionFrom=1`;
+
+  // 法案インデックスから該当議員の法案を取得
+  const billsIndexPath = path.join(dataDir, "bills_index.json");
+  const billsIndex: Record<string, BillDetail[]> = fs.existsSync(billsIndexPath)
+    ? JSON.parse(fs.readFileSync(billsIndexPath, "utf-8"))
+    : {};
+  const memberBills: BillDetail[] = billsIndex[member.id] ?? [];
 
   return (
     <main className="max-w-4xl mx-auto px-4 py-8">
@@ -115,6 +131,57 @@ export default function MemberPage({ params }: { params: { id: string } }) {
       ) : (
         <div className="bg-yellow-50 border border-yellow-200 rounded p-4 text-sm text-yellow-800">
           この議員の統計データはまだ収集中です。
+        </div>
+      )}
+
+      {/* 発議法案一覧 */}
+      {memberBills.length > 0 && (
+        <div className="mt-6">
+          <h2 className="text-lg font-semibold text-gray-800 mb-3">
+            発議法案（直近4会期）
+          </h2>
+          <div className="bg-white rounded-lg shadow overflow-hidden">
+            <table className="w-full text-sm">
+              <thead className="bg-gray-50 text-gray-500 text-xs">
+                <tr>
+                  <th className="px-3 py-2 text-left">会期</th>
+                  <th className="px-3 py-2 text-left">法案名</th>
+                  <th className="px-3 py-2 text-left">状況</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-gray-100">
+                {memberBills.map((bill, i) => (
+                  <tr key={i} className="hover:bg-gray-50">
+                    <td className="px-3 py-2 text-gray-500 whitespace-nowrap">
+                      第{bill.session}回
+                    </td>
+                    <td className="px-3 py-2">
+                      <a
+                        href={bill.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-700 hover:underline"
+                      >
+                        {bill.name}
+                      </a>
+                    </td>
+                    <td className="px-3 py-2 whitespace-nowrap">
+                      <span className={`inline-block px-2 py-0.5 rounded text-xs font-medium ${
+                        bill.status === "成立"
+                          ? "bg-green-100 text-green-800"
+                          : bill.status.includes("審議") || bill.status.includes("閉会")
+                          ? "bg-yellow-100 text-yellow-800"
+                          : "bg-gray-100 text-gray-600"
+                      }`}>
+                        {bill.status}
+                      </span>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <div className="mt-1 text-xs text-gray-400">※ 主提案のみ表示（共同提案は今後対応予定）</div>
         </div>
       )}
 
