@@ -1,13 +1,14 @@
 {
-  "speech_count": 2,
-  "committee_speech_count": 2,
-  "plenary_speech_count": 0,
+  "speech_days": 2,
+  "total_days": 10,
+  "committee_days": 2,
+  "plenary_days": 0,
   "interpellations": 0,
   "bills_sponsored": 0,
   "bills_sponsored_passed": 0,
   "bills_sponsored_pending": 0,
   "bills_cosponsored": 0,
   "from_date": "2026-02-18",
-  "until_date": "2026-05-16",
-  "updated_at": "2026-05-16T13:04:10.698949+00:00"
+  "until_date": "2026-05-17",
+  "updated_at": "2026-05-16T21:21:00.635715+00:00"
 }
