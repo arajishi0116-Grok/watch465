@@ -2,7 +2,7 @@ name: Weekly Data Update
 
 on:
   schedule:
-    - cron: "0 9 * * 5"  # 毎週金曜 09:00 UTC（日本時間18:00）
+    - cron: "0 17 * * 0"  # 毎週日曜 17:00 UTC（月曜 2:00 JST）
   workflow_dispatch:       # 手動実行も可能
 
 jobs:
@@ -27,6 +27,10 @@ jobs:
         working-directory: scraper
         run: python build_stats.py
 
+      - name: Fetch bills index
+        working-directory: scraper
+        run: python fetch_bills_index.py
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
@@ -38,3 +42,13 @@ jobs:
       - name: Deploy to Vercel
         run: npx vercel --prod --token=${{ secrets.VERCEL_TOKEN }}
         working-directory: web
+
+      - name: Post to X
+        working-directory: scraper
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          SITE_URL: ${{ secrets.SITE_URL }}
+        run: python post_to_x.py
