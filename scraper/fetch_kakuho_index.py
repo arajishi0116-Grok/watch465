@@ -33,7 +33,7 @@ HEADERS = {"User-Agent": "WATCH465/1.0 (non-profit research, official data only)
 INTERVAL = 2
 
 # 対象会期
-SESSIONS = [214, 215, 216, 217]
+SESSIONS = [218, 219, 220, 221]
 
 # 衆法(継続)=05, 衆法(今会期)=06, 閣法=09
 KAKUHO_ANCHOR = "09"
