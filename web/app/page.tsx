@@ -86,7 +86,7 @@ export default function Home({
     <div className="min-h-screen bg-gray-50">
       {/* ヘッダー */}
       <header className="bg-[#1a3a5c] text-white shadow-lg">
-        <div className="max-w-7xl mx-auto px-4 py-5">
+        <div className="max-w-screen-2xl mx-auto px-4 py-5">
           <div className="flex items-baseline gap-3">
             <h1 className="text-4xl font-bold tracking-tight">Watch465</h1>
             <span className="text-blue-300 text-lg font-light">衆議院議員 活動記録</span>
@@ -104,7 +104,7 @@ export default function Home({
         </div>
       </header>
 
-      <main className="max-w-7xl mx-auto px-4 py-6">
+      <main className="max-w-screen-2xl mx-auto px-4 py-6">
         {/* 党派タブ */}
         <div className="flex flex-wrap gap-2 mb-5">
           {PARTY_TABS.map((tab) => (
@@ -130,12 +130,12 @@ export default function Home({
         </div>
 
         {/* ランキングテーブル */}
-        <div className="bg-white rounded-xl shadow-sm border border-gray-200 overflow-x-auto">
+        <div className="bg-white rounded-xl shadow-sm border border-gray-200">
           <table className="w-full">
             <thead>
               <tr className="bg-gray-50 border-b border-gray-200">
                 <th className="px-3 py-3 text-left text-xs font-semibold text-gray-500 w-10">#</th>
-                <th className="px-3 py-3 text-left text-xs font-semibold text-gray-500">議員名</th>
+                <th className="px-3 py-3 text-left text-xs font-semibold text-gray-500 min-w-[9rem]">議員名</th>
                 <th className="px-3 py-3 text-left text-xs font-semibold text-gray-500">党派</th>
                 <th className="px-3 py-3 text-left text-xs font-semibold text-gray-500 whitespace-nowrap">選挙区</th>
                 <th className="px-2 py-3 text-right text-xs font-semibold whitespace-nowrap">
