@@ -133,8 +133,8 @@ export default function Home({
                   </Link>
                 </th>
                 <th className="px-2 py-2 text-right">
-                  <Link href={`/?tab=${activeTab}&sort=bills_sponsored_passed`} className="hover:text-blue-600">
-                    成立
+                  <Link href={`/?tab=${activeTab}&sort=bills_cosponsored`} className="hover:text-blue-600">
+                    共同<br />提案
                   </Link>
                 </th>
                 <th className="px-2 py-2 text-right">
@@ -143,8 +143,8 @@ export default function Home({
                   </Link>
                 </th>
                 <th className="px-2 py-2 text-right">
-                  <Link href={`/?tab=${activeTab}&sort=bills_cosponsored`} className="hover:text-blue-600">
-                    共同<br />提案
+                  <Link href={`/?tab=${activeTab}&sort=bills_sponsored_passed`} className="hover:text-blue-600">
+                    成立
                   </Link>
                 </th>
               </tr>
@@ -180,13 +180,13 @@ export default function Home({
                     {m.bills_sponsored != null ? m.bills_sponsored : "—"}
                   </td>
                   <td className="px-2 py-2 text-right font-mono">
-                    {m.bills_sponsored_passed != null ? m.bills_sponsored_passed : "—"}
+                    {m.bills_cosponsored != null ? m.bills_cosponsored : "—"}
                   </td>
                   <td className="px-2 py-2 text-right font-mono">
                     {m.bills_sponsored_pending != null ? m.bills_sponsored_pending : "—"}
                   </td>
                   <td className="px-2 py-2 text-right font-mono">
-                    {m.bills_cosponsored != null ? m.bills_cosponsored : "—"}
+                    {m.bills_sponsored_passed != null ? m.bills_sponsored_passed : "—"}
                   </td>
                 </tr>
               ))}
