@@ -23,9 +23,9 @@ jobs:
         working-directory: scraper
         run: python members.py
 
-      - name: Fetch speech data and build stats
+      - name: Fetch speeches (cache) and build stats
         working-directory: scraper
-        run: python build_stats.py
+        run: python fetch_all.py
 
       - name: Fetch bills index
         working-directory: scraper
