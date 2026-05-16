@@ -107,7 +107,7 @@ export default function Home({
           </p>
           <div className="mt-3 flex flex-wrap gap-x-6 gap-y-1 text-xs text-blue-300">
             <span>対象期間：2025年3月〜（第217回国会〜）</span>
-            <span>毎週月曜日 自動更新</span>
+            <span>最終更新日：2026年5月18日　毎週月曜日 自動更新</span>
             <span>データ出典：国会会議録検索システム・衆議院公式サイト</span>
           </div>
         </div>
