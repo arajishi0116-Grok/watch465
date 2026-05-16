@@ -149,6 +149,7 @@ def main():
                 "speech_count": 0,
                 "committee_speech_count": 0,
                 "plenary_speech_count": 0,
+                "interpellations": 0,
                 "from_date": args.from_date,
                 "until_date": args.until_date,
                 "updated_at": datetime.now(timezone.utc).isoformat(),
