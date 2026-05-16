@@ -43,20 +43,15 @@ def calc_and_save(member: dict) -> bool:
         committee = [s for s in substantive if "委員会" in s.get("nameOfMeeting", "") or "調査会" in s.get("nameOfMeeting", "")]
         plenary = [s for s in substantive if "本会議" in s.get("nameOfMeeting", "")]
 
-        all_sessions = max(len(set(s.get("date","") + "§" + s.get("nameOfMeeting","") for s in substantive)), 1)
-        comm_sessions = len(set(s.get("date","") + "§" + s.get("nameOfMeeting","") for s in committee))
-        plen_sessions = len(set(s.get("date","") + "§" + s.get("nameOfMeeting","") for s in plenary))
-
         stats = {
-            "committee_attendance_rate": round(comm_sessions / all_sessions * 100, 1),
-            "committee_speech_rate": round(comm_sessions / all_sessions * 100, 1),
-            "plenary_attendance_rate": round(plen_sessions / all_sessions * 100, 1),
-            "interpellations": 0,        # 将来実装
+            "speech_count": len(substantive),
+            "committee_speech_count": len(committee),
+            "plenary_speech_count": len(plenary),
+            "interpellations": 0,
             "bills_sponsored": 0,
             "bills_sponsored_passed": 0,
             "bills_sponsored_pending": 0,
             "bills_cosponsored": 0,
-            "speech_count": len(substantive),
             "updated_at": datetime.now(timezone.utc).isoformat(),
         }
 

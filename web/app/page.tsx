@@ -12,9 +12,9 @@ type Member = {
 };
 
 type Stats = {
-  committee_attendance_rate: number;
-  committee_speech_rate: number;
-  plenary_attendance_rate: number;
+  speech_count: number;
+  committee_speech_count: number;
+  plenary_speech_count: number;
   interpellations: number;
   bills_sponsored: number;
   bills_sponsored_passed: number;
@@ -57,11 +57,12 @@ function loadData(): MemberWithStats[] {
 export default function Home({
   searchParams,
 }: {
-  searchParams: { tab?: string; sort?: string };
+  searchParams: { tab?: string; sort?: string; dir?: string };
 }) {
   const members = loadData();
   const activeTab = searchParams.tab ?? "全員";
-  const sortKey = (searchParams.sort ?? "committee_attendance_rate") as keyof MemberWithStats;
+  const sortKey = (searchParams.sort ?? "speech_count") as keyof MemberWithStats;
+  const sortDir = searchParams.dir ?? "desc";
 
   const filtered =
     activeTab === "全員"
@@ -75,12 +76,22 @@ export default function Home({
   const sorted = [...filtered].sort((a, b) => {
     const av = (a[sortKey] as number) ?? -1;
     const bv = (b[sortKey] as number) ?? -1;
-    return bv - av;
+    return sortDir === "asc" ? av - bv : bv - av;
   });
 
-  const withStats = sorted.filter((m) => m.committee_attendance_rate != null);
-  const noStats = sorted.filter((m) => m.committee_attendance_rate == null);
+  const withStats = sorted.filter((m) => m.speech_count != null);
+  const noStats = sorted.filter((m) => m.speech_count == null);
   const display = [...withStats, ...noStats];
+
+  // 列ヘッダーのリンクURL生成（同じ列を再クリックで昇降順切り替え）
+  function sortUrl(key: string) {
+    const newDir = sortKey === key && sortDir === "desc" ? "asc" : "desc";
+    return `/?tab=${activeTab}&sort=${key}&dir=${newDir}`;
+  }
+  function sortIcon(key: string) {
+    if (sortKey !== key) return " ↕";
+    return sortDir === "desc" ? " ↓" : " ↑";
+  }
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -92,9 +103,8 @@ export default function Home({
             <span className="text-blue-300 text-lg font-light">衆議院議員 活動記録</span>
           </div>
           <p className="mt-3 text-blue-100 text-sm leading-relaxed max-w-3xl">
-            このサイトは国会議員（衆議院）の活動状況を、国会の公式データから見える化し、政治的バイアスなしで有権者に提供することを目的に公開しています。
-            Claudeを使用しています。万一内容に誤りがある場合はご指摘いただければ修正いたします。
-            あなたの選挙区選出議員の活動状況を確認し、次回選挙における投票先検討の参考になれば幸いです。
+            このサイトは国会議員（衆議院）の活動状況を、国会の公式データを使用して見える化し、政治的偏見なしで有権者に提供することを目的としています。<br />
+            Claude.AIを使用しています。内容に誤りがありましたら、お手数ですが公式Xよりご指摘ください。
           </p>
           <div className="mt-3 flex flex-wrap gap-x-6 gap-y-1 text-xs text-blue-300">
             <span>対象期間：2025年3月〜（第217回国会〜）</span>
@@ -138,48 +148,23 @@ export default function Home({
                 <th className="px-3 py-3 text-left text-xs font-semibold text-gray-500 min-w-[9rem]">議員名</th>
                 <th className="px-3 py-3 text-left text-xs font-semibold text-gray-500">党派</th>
                 <th className="px-3 py-3 text-left text-xs font-semibold text-gray-500 whitespace-nowrap">選挙区</th>
-                <th className="px-2 py-3 text-right text-xs font-semibold whitespace-nowrap">
-                  <Link href={`/?tab=${activeTab}&sort=committee_attendance_rate`}
-                    className={`hover:text-[#1a3a5c] ${sortKey === "committee_attendance_rate" ? "text-[#1a3a5c] underline" : "text-gray-500"}`}>
-                    委員会発言率
-                  </Link>
-                </th>
-                <th className="px-2 py-3 text-right text-xs font-semibold whitespace-nowrap">
-                  <Link href={`/?tab=${activeTab}&sort=plenary_attendance_rate`}
-                    className={`hover:text-[#1a3a5c] ${sortKey === "plenary_attendance_rate" ? "text-[#1a3a5c] underline" : "text-gray-500"}`}>
-                    本会議発言率
-                  </Link>
-                </th>
-                <th className="px-2 py-3 text-right text-xs font-semibold whitespace-nowrap">
-                  <Link href={`/?tab=${activeTab}&sort=interpellations`}
-                    className={`hover:text-[#1a3a5c] ${sortKey === "interpellations" ? "text-[#1a3a5c] underline" : "text-gray-500"}`}>
-                    質問主意書
-                  </Link>
-                </th>
-                <th className="px-2 py-3 text-right text-xs font-semibold whitespace-nowrap">
-                  <Link href={`/?tab=${activeTab}&sort=bills_sponsored`}
-                    className={`hover:text-[#1a3a5c] ${sortKey === "bills_sponsored" ? "text-[#1a3a5c] underline" : "text-gray-500"}`}>
-                    主提案
-                  </Link>
-                </th>
-                <th className="px-2 py-3 text-right text-xs font-semibold whitespace-nowrap">
-                  <Link href={`/?tab=${activeTab}&sort=bills_cosponsored`}
-                    className={`hover:text-[#1a3a5c] ${sortKey === "bills_cosponsored" ? "text-[#1a3a5c] underline" : "text-gray-500"}`}>
-                    共同提案
-                  </Link>
-                </th>
-                <th className="px-2 py-3 text-right text-xs font-semibold whitespace-nowrap">
-                  <Link href={`/?tab=${activeTab}&sort=bills_sponsored_pending`}
-                    className={`hover:text-[#1a3a5c] ${sortKey === "bills_sponsored_pending" ? "text-[#1a3a5c] underline" : "text-gray-500"}`}>
-                    審議中
-                  </Link>
-                </th>
-                <th className="px-2 py-3 text-right text-xs font-semibold whitespace-nowrap">
-                  <Link href={`/?tab=${activeTab}&sort=bills_sponsored_passed`}
-                    className={`hover:text-[#1a3a5c] ${sortKey === "bills_sponsored_passed" ? "text-[#1a3a5c] underline" : "text-gray-500"}`}>
-                    成立
-                  </Link>
-                </th>
+                {[
+                  ["speech_count", "実質発言数"],
+                  ["committee_speech_count", "委員会発言数"],
+                  ["plenary_speech_count", "本会議発言数"],
+                  ["interpellations", "質問主意書"],
+                  ["bills_sponsored", "主提案"],
+                  ["bills_cosponsored", "共同提案"],
+                  ["bills_sponsored_pending", "審議中"],
+                  ["bills_sponsored_passed", "成立"],
+                ].map(([key, label]) => (
+                  <th key={key} className="px-2 py-3 text-right text-xs font-semibold whitespace-nowrap">
+                    <Link href={sortUrl(key)}
+                      className={`hover:text-[#1a3a5c] ${sortKey === key ? "text-[#1a3a5c] underline" : "text-gray-500"}`}>
+                      {label}{sortIcon(key)}
+                    </Link>
+                  </th>
+                ))}
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-100">
@@ -200,41 +185,22 @@ export default function Home({
                     </span>
                   </td>
                   <td className="px-3 py-2.5 text-sm text-gray-600 whitespace-nowrap">{m.constituency}</td>
-                  <td className="px-2 py-2.5 text-right">
-                    <span className={`text-sm font-semibold font-mono ${m.committee_attendance_rate != null ? "text-gray-900" : "text-gray-300"}`}>
-                      {m.committee_attendance_rate != null ? `${m.committee_attendance_rate}%` : "—"}
-                    </span>
-                  </td>
-                  <td className="px-2 py-2.5 text-right">
-                    <span className={`text-sm font-semibold font-mono ${m.plenary_attendance_rate != null ? "text-gray-900" : "text-gray-300"}`}>
-                      {m.plenary_attendance_rate != null ? `${m.plenary_attendance_rate}%` : "—"}
-                    </span>
-                  </td>
-                  <td className="px-2 py-2.5 text-right">
-                    <span className={`text-sm font-semibold font-mono ${m.interpellations != null ? "text-gray-900" : "text-gray-300"}`}>
-                      {m.interpellations != null ? m.interpellations : "—"}
-                    </span>
-                  </td>
-                  <td className="px-2 py-2.5 text-right">
-                    <span className={`text-sm font-semibold font-mono ${m.bills_sponsored != null ? "text-gray-900" : "text-gray-300"}`}>
-                      {m.bills_sponsored != null ? m.bills_sponsored : "—"}
-                    </span>
-                  </td>
-                  <td className="px-2 py-2.5 text-right">
-                    <span className={`text-sm font-semibold font-mono ${m.bills_cosponsored != null ? "text-gray-900" : "text-gray-300"}`}>
-                      {m.bills_cosponsored != null ? m.bills_cosponsored : "—"}
-                    </span>
-                  </td>
-                  <td className="px-2 py-2.5 text-right">
-                    <span className={`text-sm font-semibold font-mono ${m.bills_sponsored_pending != null ? "text-gray-900" : "text-gray-300"}`}>
-                      {m.bills_sponsored_pending != null ? m.bills_sponsored_pending : "—"}
-                    </span>
-                  </td>
-                  <td className="px-2 py-2.5 text-right">
-                    <span className={`text-sm font-semibold font-mono ${m.bills_sponsored_passed != null ? "text-gray-900" : "text-gray-300"}`}>
-                      {m.bills_sponsored_passed != null ? m.bills_sponsored_passed : "—"}
-                    </span>
-                  </td>
+                  {([
+                    ["speech_count", m.speech_count],
+                    ["committee_speech_count", m.committee_speech_count],
+                    ["plenary_speech_count", m.plenary_speech_count],
+                    ["interpellations", m.interpellations],
+                    ["bills_sponsored", m.bills_sponsored],
+                    ["bills_cosponsored", m.bills_cosponsored],
+                    ["bills_sponsored_pending", m.bills_sponsored_pending],
+                    ["bills_sponsored_passed", m.bills_sponsored_passed],
+                  ] as [string, number | undefined][]).map(([key, val]) => (
+                    <td key={key} className="px-2 py-2.5 text-right">
+                      <span className={`text-sm font-semibold font-mono ${val != null ? "text-gray-900" : "text-gray-300"}`}>
+                        {val != null ? val : "—"}
+                      </span>
+                    </td>
+                  ))}
                 </tr>
               ))}
             </tbody>

@@ -16,9 +16,9 @@ type Member = {
 };
 
 type Stats = {
-  committee_attendance_rate: number;
-  committee_speech_rate: number;
-  plenary_attendance_rate: number;
+  speech_count: number;
+  committee_speech_count: number;
+  plenary_speech_count: number;
   interpellations: number;
   bills_sponsored: number;
   bills_sponsored_passed: number;
@@ -146,8 +146,11 @@ export default function MemberPage({ params }: { params: { id: string } }) {
               活動状況（2025年3月〜）
             </h2>
             <div className="grid grid-cols-3 gap-3 mb-6">
-              <StatCard label="委員会発言率" value={stats.committee_attendance_rate} unit="%" highlight />
-              <StatCard label="本会議発言率" value={stats.plenary_attendance_rate} unit="%" />
+              <StatCard label="実質発言数" value={stats.speech_count} unit="回" highlight />
+              <StatCard label="委員会発言数" value={stats.committee_speech_count} unit="回" />
+              <StatCard label="本会議発言数" value={stats.plenary_speech_count} unit="回" />
+            </div>
+            <div className="grid grid-cols-1 gap-3 mb-6">
               <StatCard label="質問主意書" value={stats.interpellations} unit="本" />
             </div>
 
