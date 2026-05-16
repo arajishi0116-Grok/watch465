@@ -18,13 +18,35 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 
 from config import (
-    MEMBERS_JSON, SPEECHES_DIR, STATS_DIR,
+    MEMBERS_JSON, SPEECHES_DIR, STATS_DIR, DATA_DIR,
     SUBSTANTIVE_SPEECH_MIN_WORDS,
     CHAMBER_SHUGIIN, CHAMBER_SANGIIN,
     SPEECHES_FROM_DATE,
 )
 from kokkai_api import is_excluded_role
 from fetch_speeches import load_speeches
+
+
+def load_bills_index() -> dict:
+    """bills_index.json を読み込む。なければ空dict。"""
+    path = Path(DATA_DIR) / "bills_index.json"
+    if not path.exists():
+        return {}
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def calc_bill_stats(member_id: str, bills_index: dict) -> dict:
+    """bills_index から主提案・成立・審議中・共同提案を集計する"""
+    bills = bills_index.get(member_id, [])
+    primary = [b for b in bills if b.get("is_primary", True)]
+    return {
+        "bills_sponsored": len(primary),
+        "bills_sponsored_passed": len([b for b in primary if b.get("status") == "成立"]),
+        "bills_sponsored_pending": len([b for b in primary
+                                        if "審議" in b.get("status", "") or "閉会" in b.get("status", "")]),
+        "bills_cosponsored": len([b for b in bills if not b.get("is_primary", True)]),
+    }
 
 
 # 現任期開始（2024年10月衆院選後）
@@ -107,6 +129,9 @@ def main():
 
     print(f"指標計算: {len(target)}人 / 期間 {args.from_date} 〜 {args.until_date}", flush=True)
 
+    bills_index = load_bills_index()
+    print(f"bills_index: {len(bills_index)}人分読み込み済み", flush=True)
+
     done = skipped = errors = 0
     for m in target:
         member_id = m["id"]
@@ -119,9 +144,18 @@ def main():
 
         stats = calc_stats(member_id, args.chamber, args.from_date, args.until_date)
         if stats is None:
-            print(f"  スキップ（発言データなし）: {name}", flush=True)
-            errors += 1
-            continue
+            # 発言データがなくても法案データだけでstatsを作る
+            stats = {
+                "speech_count": 0,
+                "committee_speech_count": 0,
+                "plenary_speech_count": 0,
+                "from_date": args.from_date,
+                "until_date": args.until_date,
+                "updated_at": datetime.now(timezone.utc).isoformat(),
+            }
+
+        # 法案データをマージ
+        stats.update(calc_bill_stats(member_id, bills_index))
 
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(stats, f, ensure_ascii=False, indent=2)
