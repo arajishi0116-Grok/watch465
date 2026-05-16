@@ -98,12 +98,11 @@ export default function Home({
       {/* ヘッダー */}
       <header className="bg-[#1a3a5c] text-white shadow-lg">
         <div className="max-w-screen-2xl mx-auto px-4 py-5">
-          <div className="flex items-baseline gap-3">
-            <h1 className="text-4xl font-bold tracking-tight">Watch465</h1>
-            <span className="text-blue-300 text-lg font-light">衆議院議員 活動記録</span>
-          </div>
+          <h1 className="text-4xl font-bold tracking-tight">WATCH465</h1>
+          <div className="text-blue-300 text-lg font-light mt-1">衆議院議員活動記録</div>
           <p className="mt-3 text-blue-100 text-sm leading-relaxed max-w-3xl">
-            このサイトは国会議員（衆議院）の活動状況を、国会の公式データを使用して見える化し、政治的偏見なしで有権者に提供することを目的としています。<br />
+            このサイトは国会議員（衆議院）の活動状況を、国会の公式データを使用して見える化し<br />
+            政治的偏見なしで有権者に提供することを目的としています。<br />
             Claude.AIを使用しています。内容に誤りがありましたら、お手数ですが公式Xよりご指摘ください。
           </p>
           <div className="mt-3 flex flex-wrap gap-x-6 gap-y-1 text-xs text-blue-300">
