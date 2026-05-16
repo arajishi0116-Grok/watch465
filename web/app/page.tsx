@@ -40,13 +40,17 @@ function getPartyBadgeClass(party: string) {
   return PARTY_COLORS[party] ?? "bg-gray-100 text-gray-600 border border-gray-200";
 }
 
-function loadData(): MemberWithStats[] {
+// 任期定義
+const CURRENT_TERM = { label: "令和8年2月18日〜", from: "2026-02-18", dir: "stats" };
+const PREV_TERM    = { label: "令和6年11月11日〜令和8年1月23日", from: "2024-11-11", until: "2026-01-23", dir: "stats_prev" };
+
+function loadData(statsDir: string): MemberWithStats[] {
   const dataDir = path.join(process.cwd(), "..", "data");
   const membersPath = path.join(dataDir, "members.json");
   if (!fs.existsSync(membersPath)) return [];
   const members: Member[] = JSON.parse(fs.readFileSync(membersPath, "utf-8"));
   return members.map((m) => {
-    const statsPath = path.join(dataDir, "stats", `${m.id}.json`);
+    const statsPath = path.join(dataDir, statsDir, `${m.id}.json`);
     if (!m.id || !fs.existsSync(statsPath)) return m;
     const stats: Stats = JSON.parse(fs.readFileSync(statsPath, "utf-8"));
     return { ...m, ...stats };
@@ -57,9 +61,11 @@ function loadData(): MemberWithStats[] {
 export default function Home({
   searchParams,
 }: {
-  searchParams: { tab?: string; sort?: string; dir?: string };
+  searchParams: { tab?: string; sort?: string; dir?: string; term?: string };
 }) {
-  const members = loadData();
+  const isPrev = searchParams.term === "prev";
+  const term = isPrev ? PREV_TERM : CURRENT_TERM;
+  const members = loadData(term.dir);
   const activeTab = searchParams.tab ?? "全員";
   const sortKey = (searchParams.sort ?? "speech_count") as keyof MemberWithStats;
   const sortDir = searchParams.dir ?? "desc";
@@ -84,9 +90,10 @@ export default function Home({
   const display = [...withStats, ...noStats];
 
   // 列ヘッダーのリンクURL生成（同じ列を再クリックで昇降順切り替え）
+  const termParam = isPrev ? "&term=prev" : "";
   function sortUrl(key: string) {
     const newDir = sortKey === key && sortDir === "desc" ? "asc" : "desc";
-    return `/?tab=${activeTab}&sort=${key}&dir=${newDir}`;
+    return `/?tab=${activeTab}&sort=${key}&dir=${newDir}${termParam}`;
   }
   function sortIcon(key: string) {
     if (sortKey !== key) return " ↕";
@@ -106,7 +113,13 @@ export default function Home({
             Claude.AIを使用しています。内容に誤りがありましたら、お手数ですが公式Xよりご指摘ください。
           </p>
           <div className="mt-3 flex flex-wrap gap-x-6 gap-y-1 text-xs text-blue-300">
-            <span>対象期間：2025年3月〜（第217回国会〜）</span>
+            <span>
+              {isPrev ? (
+                <>集計期間：{PREV_TERM.label}<Link href="/" className="ml-3 underline hover:text-white">← 最新期間に戻る</Link></>
+              ) : (
+                <>集計期間：{CURRENT_TERM.label}<Link href="/?term=prev" className="ml-3 underline hover:text-white">前回集計期間（{PREV_TERM.label}）</Link></>
+              )}
+            </span>
             <span>最終更新日：2026年5月18日　毎週月曜日 自動更新</span>
             <span>データ出典：国会会議録検索システム・衆議院公式サイト</span>
           </div>
@@ -119,7 +132,7 @@ export default function Home({
           {PARTY_TABS.map((tab) => (
             <Link
               key={tab}
-              href={`/?tab=${tab}&sort=${sortKey}`}
+              href={`/?tab=${tab}&sort=${sortKey}${termParam}`}
               className={`px-4 py-1.5 rounded-full text-sm font-medium border transition-colors ${
                 activeTab === tab
                   ? "bg-[#1a3a5c] text-white border-[#1a3a5c]"

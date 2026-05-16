@@ -17,7 +17,7 @@ HEADERS = {"User-Agent": "WATCH465/1.0 (non-profit research, official data only)
 INTERVAL = 2  # 秒
 
 # 対象会期（現任期：2024年10月衆院選以降）※新会期が始まったらここに追加する
-SESSIONS = [214, 215, 216, 217]
+SESSIONS = [221]  # 現任期：第51回衆院選後（2026年2月〜）
 
 
 def get_soup(url: str) -> BeautifulSoup:

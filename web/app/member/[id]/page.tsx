@@ -162,7 +162,7 @@ export default function MemberPage({ params }: { params: { id: string } }) {
             {/* 活動状況 */}
             <h2 className="text-base font-bold text-gray-700 mb-3 flex items-center gap-2">
               <span className="w-1 h-5 bg-[#1a3a5c] rounded-full inline-block"></span>
-              活動状況（2025年3月〜）
+              活動状況（令和8年2月18日〜）
             </h2>
             <div className="grid grid-cols-3 gap-3 mb-6">
               <StatCard label="実質発言数" value={stats.speech_count} unit="回" highlight />

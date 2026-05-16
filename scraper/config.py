@@ -18,10 +18,18 @@ MEMBERS_JSON = "../data/members.json"
 MEMBERS_SANGIIN_JSON = "../data/members_sangiin.json"   # 将来: 参議院
 SPEECHES_DIR = "../data/speeches"
 STATS_DIR = "../data/stats"
+STATS_PREV_DIR = "../data/stats_prev"  # 前任期（第50回選挙後）
 RANKINGS_DIR = "../data/rankings"
 
 # 発言取得の起点（2000年以降のみ）
 SPEECHES_FROM_DATE = "2000-01-01"
+
+# 任期区切り
+# 現任期: 第51回衆院選（2026-02-06）後 → 第221回特別会召集日から
+CURRENT_TERM_START = "2026-02-18"
+# 前任期: 第50回衆院選（2024-10-27）後 → 第215回特別会召集日〜解散日
+PREV_TERM_START = "2024-11-11"
+PREV_TERM_END   = "2026-01-23"
 
 # 院の識別子
 CHAMBER_SHUGIIN = "shugiin"

@@ -1,12 +1,15 @@
 """
-speeches/ キャッシュから指標を計算して stats/ に保存する。
+speeches/ キャッシュから指標を計算して stats/ と stats_prev/ に保存する。
 APIへのアクセスは不要。fetch_speeches.py でキャッシュ後に実行する。
 
+発言カウントの定義:
+  「委員会・審査会・本会議など会議単位で、実質発言が1回以上あれば1カウント」
+  同一会議内で何回やりとりしてもカウントは1。
+  1日に2つの委員会で発言したら2カウント。
+
 用途:
-  python build_stats.py                    # 全員（shugiin）
-  python build_stats.py --force            # 既存statsも上書き
-  python build_stats.py --chamber sangiin  # 参議院（将来）
-  python build_stats.py --from 2025-03-01 --until 2025-12-31  # 期間指定
+  python build_stats.py          # 現任期・前任期を両方生成
+  python build_stats.py --force  # 既存statsも上書き
 """
 import json
 import sys
@@ -18,18 +21,18 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 
 from config import (
-    MEMBERS_JSON, SPEECHES_DIR, STATS_DIR, DATA_DIR,
+    MEMBERS_JSON, SPEECHES_DIR, STATS_DIR, STATS_PREV_DIR, DATA_DIR,
     SUBSTANTIVE_SPEECH_MIN_WORDS,
     CHAMBER_SHUGIIN, CHAMBER_SANGIIN,
-    SPEECHES_FROM_DATE,
+    CURRENT_TERM_START, PREV_TERM_START, PREV_TERM_END,
 )
 from kokkai_api import is_excluded_role
 from fetch_speeches import load_speeches
 
 
-def load_bills_index() -> dict:
+def load_bills_index(path_name: str = "bills_index.json") -> dict:
     """bills_index.json を読み込む。なければ空dict。"""
-    path = Path(DATA_DIR) / "bills_index.json"
+    path = Path(DATA_DIR) / path_name
     if not path.exists():
         return {}
     with open(path, encoding="utf-8") as f:
@@ -49,10 +52,6 @@ def calc_bill_stats(member_id: str, bills_index: dict) -> dict:
     }
 
 
-# 第217回国会（2025年3月〜）を対象期間とする
-CURRENT_TERM_START = "2025-03-01"
-
-
 def count_content_words(text: str) -> int:
     """実質発言の判定（句読点等除去後の単語数）"""
     text = re.sub(r"[。、！？「」『』【】\s]", " ", text)
@@ -62,22 +61,18 @@ def count_content_words(text: str) -> int:
 def is_substantive(speech: dict) -> bool:
     """実質的な発言かどうか（挨拶・やじ・つなぎを除外）"""
     text = speech.get("speech", "")
-    if count_content_words(text) < SUBSTANTIVE_SPEECH_MIN_WORDS:
-        return False
-    return True
+    return count_content_words(text) >= SUBSTANTIVE_SPEECH_MIN_WORDS
 
 
 def filter_by_period(speeches: list[dict], from_date: str, until_date: str) -> list[dict]:
-    result = []
-    for s in speeches:
-        d = s.get("date", "")
-        if d and from_date <= d <= until_date:
-            result.append(s)
-    return result
+    return [s for s in speeches if from_date <= s.get("date", "") <= until_date]
 
 
 def calc_stats(member_id: str, chamber: str, from_date: str, until_date: str) -> dict | None:
-    """speeches キャッシュから指標を計算する"""
+    """
+    speeches キャッシュから指標を計算する。
+    発言カウント = 実質発言のあった会議の数（date × nameOfMeeting のユニーク数）
+    """
     speeches = load_speeches(member_id, chamber)
     if not speeches:
         return None
@@ -90,17 +85,21 @@ def calc_stats(member_id: str, chamber: str, from_date: str, until_date: str) ->
 
     # 実質発言のみ
     substantive = [s for s in speeches if is_substantive(s)]
+    if not substantive:
+        return None
 
-    # 委員会 / 本会議に分類
-    committee = [s for s in substantive
-                 if "委員会" in s.get("nameOfMeeting", "") or "調査会" in s.get("nameOfMeeting", "")]
-    plenary = [s for s in substantive if "本会議" in s.get("nameOfMeeting", "")]
+    # ── 会議単位でカウント ──────────────────────────────────────────
+    # 同一会議内で何回発言してもカウント1。異なる会議なら別カウント。
+    all_meetings    = set((s.get("date", ""), s.get("nameOfMeeting", "")) for s in substantive)
+    comm_meetings   = set(m for m in all_meetings
+                          if "委員会" in m[1] or "調査会" in m[1])
+    plenary_meetings = set(m for m in all_meetings if "本会議" in m[1])
 
     return {
-        "speech_count": len(substantive),
-        "committee_speech_count": len(committee),
-        "plenary_speech_count": len(plenary),
-        "interpellations": 0,       # fetch_bills_index.py で別途集計
+        "speech_count":          len(all_meetings),
+        "committee_speech_count": len(comm_meetings),
+        "plenary_speech_count":  len(plenary_meetings),
+        "interpellations": 0,       # 別途集計
         "bills_sponsored": 0,
         "bills_sponsored_passed": 0,
         "bills_sponsored_pending": 0,
@@ -111,12 +110,47 @@ def calc_stats(member_id: str, chamber: str, from_date: str, until_date: str) ->
     }
 
 
+def build_for_period(members: list[dict], chamber: str,
+                     from_date: str, until_date: str,
+                     out_dir: Path, bills_index: dict,
+                     force: bool):
+    """指定期間の stats を out_dir に書き出す"""
+    out_dir.mkdir(parents=True, exist_ok=True)
+    done = skipped = 0
+
+    for m in members:
+        member_id = m["id"]
+        out_path = out_dir / f"{member_id}.json"
+
+        if not force and out_path.exists():
+            skipped += 1
+            continue
+
+        stats = calc_stats(member_id, chamber, from_date, until_date)
+        if stats is None:
+            stats = {
+                "speech_count": 0,
+                "committee_speech_count": 0,
+                "plenary_speech_count": 0,
+                "interpellations": 0,
+                "from_date": from_date,
+                "until_date": until_date,
+                "updated_at": datetime.now(timezone.utc).isoformat(),
+            }
+
+        stats.update(calc_bill_stats(member_id, bills_index))
+
+        with open(out_path, "w", encoding="utf-8") as f:
+            json.dump(stats, f, ensure_ascii=False, indent=2)
+        done += 1
+
+    return done, skipped
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--chamber", default=CHAMBER_SHUGIIN)
     parser.add_argument("--members", default=MEMBERS_JSON)
-    parser.add_argument("--from", dest="from_date", default=CURRENT_TERM_START)
-    parser.add_argument("--until", dest="until_date", default=date.today().isoformat())
     parser.add_argument("--force", action="store_true", help="既存statsも上書き")
     args = parser.parse_args()
 
@@ -124,45 +158,33 @@ def main():
         members = json.load(f)
 
     target = [m for m in members if not m.get("is_excluded") and m.get("id")]
-    stats_dir = Path(STATS_DIR)
-    stats_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"指標計算: {len(target)}人 / 期間 {args.from_date} 〜 {args.until_date}", flush=True)
+    # 現任期の法案データ（bills_index.json = 第221回〜）
+    bills_current = load_bills_index("bills_index.json")
+    # 前任期の法案データ（bills_index_prev.json = 第215〜219回）
+    bills_prev    = load_bills_index("bills_index_prev.json")
 
-    bills_index = load_bills_index()
-    print(f"bills_index: {len(bills_index)}人分読み込み済み", flush=True)
+    today = date.today().isoformat()
 
-    done = skipped = errors = 0
-    for m in target:
-        member_id = m["id"]
-        name = m["name"].replace("　", "")
-        out_path = stats_dir / f"{member_id}.json"
+    # ── 現任期 ────────────────────────────────────────────────────────
+    print(f"\n【現任期】{CURRENT_TERM_START} 〜 {today}", flush=True)
+    print(f"bills_index: {len(bills_current)}人分", flush=True)
+    done, skipped = build_for_period(
+        target, args.chamber,
+        CURRENT_TERM_START, today,
+        Path(STATS_DIR), bills_current, args.force
+    )
+    print(f"完了: {done}人更新 / {skipped}人スキップ", flush=True)
 
-        if not args.force and out_path.exists():
-            skipped += 1
-            continue
-
-        stats = calc_stats(member_id, args.chamber, args.from_date, args.until_date)
-        if stats is None:
-            # 発言データがなくても法案データだけでstatsを作る
-            stats = {
-                "speech_count": 0,
-                "committee_speech_count": 0,
-                "plenary_speech_count": 0,
-                "interpellations": 0,
-                "from_date": args.from_date,
-                "until_date": args.until_date,
-                "updated_at": datetime.now(timezone.utc).isoformat(),
-            }
-
-        # 法案データをマージ
-        stats.update(calc_bill_stats(member_id, bills_index))
-
-        with open(out_path, "w", encoding="utf-8") as f:
-            json.dump(stats, f, ensure_ascii=False, indent=2)
-        done += 1
-
-    print(f"\n完了: {done}人更新 / {skipped}人スキップ / {errors}人データなし", flush=True)
+    # ── 前任期 ────────────────────────────────────────────────────────
+    print(f"\n【前任期】{PREV_TERM_START} 〜 {PREV_TERM_END}", flush=True)
+    print(f"bills_index_prev: {len(bills_prev)}人分", flush=True)
+    done, skipped = build_for_period(
+        target, args.chamber,
+        PREV_TERM_START, PREV_TERM_END,
+        Path(STATS_PREV_DIR), bills_prev, args.force
+    )
+    print(f"完了: {done}人更新 / {skipped}人スキップ", flush=True)
 
 
 if __name__ == "__main__":
