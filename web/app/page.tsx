@@ -17,6 +17,8 @@ type Stats = {
   plenary_attendance_rate: number;
   interpellations: number;
   bills_sponsored: number;
+  bills_sponsored_passed: number;
+  bills_sponsored_pending: number;
   bills_cosponsored: number;
   updated_at: string;
 };
@@ -103,32 +105,46 @@ export default function Home({
 
       {/* ランキングテーブル */}
       <div className="bg-white rounded-lg shadow overflow-hidden">
-        <div className="overflow-x-auto">
-          <table className="w-full text-sm">
-            <thead className="bg-gray-50 text-gray-600 text-xs uppercase tracking-wider">
+          <table className="w-full text-xs">
+            <thead className="bg-gray-50 text-gray-500 text-xs">
               <tr>
-                <th className="px-4 py-3 text-left">#</th>
-                <th className="px-4 py-3 text-left">氏名</th>
-                <th className="px-4 py-3 text-left">党派</th>
-                <th className="px-4 py-3 text-left">選挙区</th>
-                <th className="px-4 py-3 text-right">
+                <th className="px-2 py-2 text-left w-8">#</th>
+                <th className="px-2 py-2 text-left">氏名</th>
+                <th className="px-2 py-2 text-left">党派</th>
+                <th className="px-2 py-2 text-left">選挙区</th>
+                <th className="px-2 py-2 text-right">
                   <Link href={`/?tab=${activeTab}&sort=committee_attendance_rate`} className="hover:text-blue-600">
                     委員会<br />発言率
                   </Link>
                 </th>
-                <th className="px-4 py-3 text-right">
+                <th className="px-2 py-2 text-right">
                   <Link href={`/?tab=${activeTab}&sort=plenary_attendance_rate`} className="hover:text-blue-600">
                     本会議<br />発言率
                   </Link>
                 </th>
-                <th className="px-4 py-3 text-right">
+                <th className="px-2 py-2 text-right">
                   <Link href={`/?tab=${activeTab}&sort=interpellations`} className="hover:text-blue-600">
                     質問<br />主意書
                   </Link>
                 </th>
-                <th className="px-4 py-3 text-right">
+                <th className="px-2 py-2 text-right">
                   <Link href={`/?tab=${activeTab}&sort=bills_sponsored`} className="hover:text-blue-600">
-                    主提案
+                    主<br />提案
+                  </Link>
+                </th>
+                <th className="px-2 py-2 text-right">
+                  <Link href={`/?tab=${activeTab}&sort=bills_sponsored_passed`} className="hover:text-blue-600">
+                    成立
+                  </Link>
+                </th>
+                <th className="px-2 py-2 text-right">
+                  <Link href={`/?tab=${activeTab}&sort=bills_sponsored_pending`} className="hover:text-blue-600">
+                    審議<br />中
+                  </Link>
+                </th>
+                <th className="px-2 py-2 text-right">
+                  <Link href={`/?tab=${activeTab}&sort=bills_cosponsored`} className="hover:text-blue-600">
+                    共同<br />提案
                   </Link>
                 </th>
               </tr>
@@ -136,39 +152,46 @@ export default function Home({
             <tbody className="divide-y divide-gray-100">
               {sorted.map((m, i) => (
                 <tr key={m.id || m.name} className="hover:bg-gray-50">
-                  <td className="px-4 py-3 text-gray-400 w-12">{i + 1}</td>
-                  <td className="px-4 py-3">
+                  <td className="px-2 py-2 text-gray-400">{i + 1}</td>
+                  <td className="px-2 py-2">
                     <Link
                       href={`/member/${m.id || encodeURIComponent(m.name)}`}
-                      className="font-medium text-blue-700 hover:underline"
+                      className="font-medium text-blue-700 hover:underline whitespace-nowrap"
                     >
                       {m.name.replace(/　/g, " ")}
                     </Link>
-                    <div className="text-xs text-gray-400">{m.name_kana}</div>
                   </td>
-                  <td className="px-4 py-3">
-                    <span className={`inline-block px-2 py-0.5 rounded text-xs font-medium ${getPartyBadgeClass(m.party)}`}>
+                  <td className="px-2 py-2">
+                    <span className={`inline-block px-1.5 py-0.5 rounded text-xs font-medium ${getPartyBadgeClass(m.party)}`}>
                       {m.party}
                     </span>
                   </td>
-                  <td className="px-4 py-3 text-gray-600">{m.constituency}</td>
-                  <td className="px-4 py-3 text-right font-mono">
+                  <td className="px-2 py-2 text-gray-600 whitespace-nowrap">{m.constituency}</td>
+                  <td className="px-2 py-2 text-right font-mono">
                     {m.committee_attendance_rate != null ? `${m.committee_attendance_rate}%` : "—"}
                   </td>
-                  <td className="px-4 py-3 text-right font-mono">
+                  <td className="px-2 py-2 text-right font-mono">
                     {m.plenary_attendance_rate != null ? `${m.plenary_attendance_rate}%` : "—"}
                   </td>
-                  <td className="px-4 py-3 text-right font-mono">
+                  <td className="px-2 py-2 text-right font-mono">
                     {m.interpellations != null ? m.interpellations : "—"}
                   </td>
-                  <td className="px-4 py-3 text-right font-mono">
+                  <td className="px-2 py-2 text-right font-mono">
                     {m.bills_sponsored != null ? m.bills_sponsored : "—"}
+                  </td>
+                  <td className="px-2 py-2 text-right font-mono">
+                    {m.bills_sponsored_passed != null ? m.bills_sponsored_passed : "—"}
+                  </td>
+                  <td className="px-2 py-2 text-right font-mono">
+                    {m.bills_sponsored_pending != null ? m.bills_sponsored_pending : "—"}
+                  </td>
+                  <td className="px-2 py-2 text-right font-mono">
+                    {m.bills_cosponsored != null ? m.bills_cosponsored : "—"}
                   </td>
                 </tr>
               ))}
             </tbody>
           </table>
-        </div>
       </div>
 
       <div className="mt-6 text-xs text-gray-400">
