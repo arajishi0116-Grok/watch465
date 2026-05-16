@@ -23,16 +23,15 @@ type Stats = {
 
 type MemberWithStats = Member & Partial<Stats>;
 
-const PARTY_TABS = ["全員", "自民", "立憲", "維新", "公明", "国民", "参政", "れいわ", "その他"];
+const PARTY_TABS = ["全員", "自民", "中道", "維新", "国民", "参政", "みらい", "無所属等"];
 
 const PARTY_COLORS: Record<string, string> = {
   自民: "bg-red-100 text-red-800",
-  立憲: "bg-blue-100 text-blue-800",
+  中道: "bg-blue-100 text-blue-800",
   維新: "bg-yellow-100 text-yellow-800",
-  公明: "bg-purple-100 text-purple-800",
   国民: "bg-green-100 text-green-800",
   参政: "bg-orange-100 text-orange-800",
-  れいわ: "bg-pink-100 text-pink-800",
+  みらい: "bg-teal-100 text-teal-800",
 };
 
 function getPartyBadgeClass(party: string) {
@@ -65,7 +64,7 @@ export default function Home({
     activeTab === "全員"
       ? members
       : members.filter((m) =>
-          activeTab === "その他"
+          activeTab === "無所属等"
             ? !PARTY_TABS.slice(1, -1).some((p) => m.party.startsWith(p))
             : m.party.startsWith(activeTab)
         );
